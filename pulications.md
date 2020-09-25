@@ -6,7 +6,7 @@ permalink: /pulications/
 <section id="links">
 	<div class="container">
 	
-<font size="2"><span class="style"><span style="font-weight: 700;">2020</span></font><br>
+<span class="style"><span style="font-weight: 700;">2020</span><br>
                                     <ul style="text-align: justify;">
                                         <li><font size="2">"</font><font size="2">Finding semi-optimal measurements for entanglement detection using Autoencoder Neural Networks" M Yosefpor, MR Mostaan, S Raeisi, <a href="https://arxiv.org/pdf/2003.07031.pdf">Quantum Sci. Technol. 5 045006</a><br>
                                             </font></li>
@@ -82,7 +82,6 @@ permalink: /pulications/
                                         <li><font size="2">"</font><font size="2">Entropy production and non-Markovian dynamical maps,</font><font size="2">"</font><font size="2"> S. Marcantoni, S. Alipour, F. Benatti, R. Floreanini, and A. T. Rezakhani, <a href="https://doi.org/10.1038/s41598-017-12595-x" target="_blank">Sci. Rep. 7, 12447 (2017)</a>.</font><font size="2"></font></li>
                                     </ul>
 
-</section>
 
 
 
