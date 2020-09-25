@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact:
+title: Contact
 permalink: /contact/
 ---
 
-
+<div style="text-align: center;">
 Department of Physics
 Sharif University of Technology
 Azadi Ave, Tehran 14588, Iran
