@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pulications
-permalink: /pulications/
+title: Publications
+permalink: /publications/
 ---
 <section id="links">
 	<div class="container">
