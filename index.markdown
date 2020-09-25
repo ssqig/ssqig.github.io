@@ -4,6 +4,7 @@
 
 layout: home
 ---
+<title>Saeed Hadadi University - Advanced Physics Lab</title>>
 <section id="about">
 	<div class="container">
 	  <div class="avatar">
