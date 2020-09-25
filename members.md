@@ -3,8 +3,6 @@ layout: page
 title: Members
 permalink: /members/
 ---
-
-
 <section id="about">
 	<div class="container">
                   <div class="avatar">
