@@ -4,6 +4,13 @@
 
 layout: home
 ---
+<section id="about">
+	<div class="container">
+	  <div class="avatar">
+		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+	  </div>
+
+
 
 Lorem ipsum dolor sit amet, perfecto signiferumque cum at, fastidii patrioque eu eum, epicuri interesset ad usu. Vix eu accumsan volutpat postulant. Inermis honestatis intellegebat cu duo, audire antiopam dissentiunt pro in, meis illud pericula vis et. His ad tation verterem, nam eu option facilis. Id his postulant gubergren, quo eu nominavi luptatum, te sea feugiat quaestio.
 
@@ -14,3 +21,5 @@ Vide mazim suscipiantur ex mel. Ad legimus tacimates volutpat his. Soluta fastid
 Eu homero electram persecuti eum. Id pri zril quodsi, per paulo alterum assueverit et. Eum solet graecis pericula at, nam an volumus antiopam sadipscing. Facer dolorum has no, everti propriae laboramus vis an. Summo disputando eos cu. Tamquam repudiandae eu eos, has dolor tacimates atomorum ne.
 
 Vim quaestio definitionem ad. Cu dicam principes qui, mei ut inani apeirian. Ne solet pertinacia pri, vim homero recteque deterruisset ne, facilis percipit recteque has te. Eum ei dolor referrentur liberavisse. Movet mentitum ne per, odio putent ea per, admodum inimicus mea no.
+	</div>
+</section>
