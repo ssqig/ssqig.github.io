@@ -3,8 +3,9 @@ layout: page
 title: Pulications
 permalink: /pulications/
 ---
-
-<section id="about">
+<section id="links">
+	<div class="container">
+	
 <font size="2"><span class="style"><span style="font-weight: 700;">2020</span></font><br>
                                     <ul style="text-align: justify;">
                                         <li><font size="2">"</font><font size="2">Finding semi-optimal measurements for entanglement detection using Autoencoder Neural Networks" M Yosefpor, MR Mostaan, S Raeisi, <a href="https://arxiv.org/pdf/2003.07031.pdf">Quantum Sci. Technol. 5 045006</a><br>
