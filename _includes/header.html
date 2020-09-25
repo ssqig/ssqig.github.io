@@ -1,16 +1,15 @@
-
-<div class="container">
-  <div class="navbar-header">
-    <a class="navbar-brand" href="/">{{ site.title }}</a>
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-home" {{ site.title }}></i></a>
+    </div>
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/members/">Members</a></li>
+        <li><a href="/pulications/">Pulications</a></li>
+        <li><a href="/links/">Links</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
   </div>
-  <div id="navbar">
-    <ul class="nav navbar-nav navbar-right">
-      <li><a href="{{ site.baseurl }}/members/">Members</a></li>
-      <li><a href="{{ site.baseurl }}/pulications/">Pulications</a></li>
-      <li><a href="{{ site.baseurl }}/links/">Links</a></li>
-      <li><a href="{{ site.baseurl }}/Contact/">Contact</a></li>
-
-
-    </ul>
-  </div>
-</div>
+</nav>
