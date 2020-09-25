@@ -7,9 +7,8 @@ permalink: /links/
 	<div class="container">
 
 
-Some QIS institutes and 
-                                research groups around the world:<br></font></span></b>
-                            <font size="2">[NB. The list is obviously incomplete.]</font></p>
+Some QIS institutes and research groups around the world:<br>
+                            <font size="2">[NB. The list is obviously incomplete.]</font>
                         <p class="paragraph_style_4" align="justify">&nbsp;</p>
                         <ul>
                                 <li>
@@ -285,7 +284,6 @@ Some QIS institutes and
                                             <a title="http://www.quantumlah.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.quantumlah.org/">Center for Quantum Technologies (CQT)</a></font><font size="2">, 
                                         National University of Singapore, Singapore </font></p></li>
                             </ul>
-                        </blockquote>
                         <p class="paragraph_style_4" align="justify">&nbsp;</p>
                         <blockquote>
                             <p class="paragraph_style_4" align="justify">
@@ -379,5 +377,4 @@ Some QIS institutes and
                                             <a title="http://iopscience.iop.org/0953-4075/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/0953-4075/">Journal of Physics B: Atomic, Molecular and 
                                                 Optical Physics</a></font></p></li>
                             </ul>
-                            </div>
-            </section>            
+        
