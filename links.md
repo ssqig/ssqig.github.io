@@ -376,5 +376,4 @@ Some QIS institutes and research groups around the world:<br>
                                         <font size="2">
                                             <a title="http://iopscience.iop.org/0953-4075/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/0953-4075/">Journal of Physics B: Atomic, Molecular and 
                                                 Optical Physics</a></font></p></li>
-                            </ul>
         
