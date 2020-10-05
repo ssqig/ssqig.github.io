@@ -54,15 +54,25 @@ permalink: /publications/
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2018</span></span></font><br>
-
-•	Saeed Haddadi, Mohammad Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3<br> 
+					
+							                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">Saeed Haddadi, Mohammad Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3</font></p></li>					
+					
+					
 
 
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2017</span></span></font><br>
+					
+					
+												                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">S. Haddadi, "Comment on “Multipartite Entanglement in Four-qubit Graph States”", Int. J. Theor. Phys. 56, 2811 (2017). https://doi.org/10.1007/s10773-017-3447-y</font></p></li>					
+					
+					
 
-•	S. Haddadi, "Comment on “Multipartite Entanglement in Four-qubit Graph States”", Int. J. Theor. Phys. 56, 2811 (2017). https://doi.org/10.1007/s10773-017-3447-y<br> 
 
 </ul>
 
