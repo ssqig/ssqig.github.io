@@ -10,7 +10,7 @@ layout: home
 	  <div class="avatar">
 		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
 	  </div>
-		<ul>
+
 
 
 Our group includes motivated PhD and MSc students who are currently working on interesting topics in the field of quantum information. I, Saeed Haddadi, the founder and CEO of Saeed's Quantum Information Group, welcome you to this quantum information world. Our group is currently working on the following topics:
