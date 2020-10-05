@@ -6,6 +6,7 @@ permalink: /publications/
 
 <section id="links">
 	<div class="container">
+		<ul>
 	
 <span class="style"><span style="font-weight: 700;">2020</span><br>
                                     <ul style="text-align: justify;">
@@ -43,7 +44,7 @@ permalink: /publications/
 
 •	S. Haddadi, "Comment on “Multipartite Entanglement in Four-qubit Graph States”", Int. J. Theor. Phys. 56, 2811 (2017). https://doi.org/10.1007/s10773-017-3447-y<br> 
 
-
+</ul>
 
 
 
