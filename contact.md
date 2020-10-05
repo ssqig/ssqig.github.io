@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
+<center>
 Saeed's Quantum Information Group, 
 
 P.O.Box 19395-0560, Tehran, Iran  
