@@ -11,11 +11,6 @@ permalink: /publications/
                                     <ul style="text-align: justify;">
 
 
-                                        <li><font size="2">"</font><font size="2">Finding semi-optimal measurements for entanglement detection using Autoencoder Neural Networks" M Yosefpor, MR Mostaan, S Raeisi, <a href="https://arxiv.org/pdf/2003.07031.pdf">Quantum Sci. Technol. 5 045006</a><br>
-                                            </font></li>
-                                    </ul>
-
-
 •	A. Kumar, S. Haddadi, M. R. Pourkarimi, B. K. Behera, P. K. Panigrahi, "Experimental realization of controlled quantum teleportation of arbitrary qubit states via cluster states", Sci. Rep. 10, 13608 (2020). https://doi.org/10.1038/s41598-020-70446-8
 •	S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Exploring entropic uncertainty relation and dense coding capacity in a two-qubit X-state", Laser Phys. Lett. 17, 095205 (2020). https://doi.org/10.1088/1612-202X/aba2f0
 •	S. Haddadi, "A brief note on the Scott measure as a multipartite entanglement criterion", Laser Phys. Lett. 17, 075201 (2020). https://doi.org/10.1088/1612-202X/ab8fab
