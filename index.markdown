@@ -14,11 +14,17 @@ layout: home
 
 
 Our group includes motivated PhD and MSc students who are currently working on interesting topics in the field of quantum information. I, Saeed Haddadi, the founder and CEO of Saeed's Quantum Information Group, welcome you to this quantum information world. Our group is currently working on the following topics:
+
 •	Quantum Correlations
+
 •	Open Quantum Systems
+
 •	Quantum Channels
+
 •	Quantum Teleportation
+
 •	Entropic Uncertainty Relations
+
 •	Quamtum Memory
 
 We welcome motivated and hard-working students to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at info@ssqig.com.
