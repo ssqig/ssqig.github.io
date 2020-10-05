@@ -9,7 +9,6 @@ permalink: /publications/
 		<ul>
 	
 <span class="style"><span style="font-weight: 700;">2020</span><br>
-                                    <ul style="text-align: justify;">
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -31,20 +30,30 @@ permalink: /publications/
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2019</span></span></font><br>
-                                    <ul style="text-align: justify;">
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Quantum correlations and quantum-memory-assisted entropic uncertainty relation in two kinds of spin squeezing models", Laser Phys. Lett. 16, 095202 (2020). https://doi.org/10.1088/1612-202X/ab2cc7</font></p></li>
+	                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">S. Haddadi, A. Akhound, M. A. Chaman Motlagh, "Efficient entanglement measure for graph states", Int. J. Theor. Phys. 58, 3406 (2019). https://doi.org/10.1007/s10773-019-04214-4</font></p></li>
+	                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Thermal quantum correlations in a two-dimensional spin star model", Mod. Phys. Lett. A 34, 1950175 (2019). https://doi.org/10.1142/S021773231950175X</font></p></li>
+						                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">A. Akhound, S. Haddadi, M. A. Chaman Motlagh, "Analyzing the entanglement properties of graph states with generalized concurrence", Mod. Phys. Lett. B 33, 1950118 (2019). https://doi.org/10.1142/S0217984919501185</font></p></li>
+							                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">A. Akhound, S. Haddadi, M. A. Chaman Motlagh, "Bipartite and multipartite entanglement in entangled graphs", J. Rese. Many-body Syst. 8, 1 (2019). https://doi.org/10.22055/JRMBS.2018.13972</font></p></li>					
+					
+							                                <li>
+                                    <p class="paragraph_style_4" align="justify">				
+                                        <font size="2">S. Haddadi, A. Akhound, "Thermal entanglement properties in two qubits one-axis spin squeezing model with an external magnetic field, Int. J. Theor. Phys. 58, 399 (2019). https://doi.org/10.1007/s10773-018-3941-x</font></p></li>					
 
-•	S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Quantum correlations and quantum-memory-assisted entropic uncertainty relation in two kinds of spin squeezing models", Laser Phys. Lett. 16, 095202 (2020). https://doi.org/10.1088/1612-202X/ab2cc7<br> 
-•	S. Haddadi, A. Akhound, M. A. Chaman Motlagh, "Efficient entanglement measure for graph states", Int. J. Theor. Phys. 58, 3406 (2019). https://doi.org/10.1007/s10773-019-04214-4<br> 
-•	S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Thermal quantum correlations in a two-dimensional spin star model", Mod. Phys. Lett. A 34, 1950175 (2019). https://doi.org/10.1142/S021773231950175X<br> 
-•	A. Akhound, S. Haddadi, M. A. Chaman Motlagh, "Analyzing the entanglement properties of graph states with generalized concurrence", Mod. Phys. Lett. B 33, 1950118 (2019). https://doi.org/10.1142/S0217984919501185<br> 
 
-•	A. Akhound, S. Haddadi, M. A. Chaman Motlagh, "Bipartite and multipartite entanglement in entangled graphs", J. Rese. Many-body Syst. 8, 1 (2019). https://doi.org/10.22055/JRMBS.2018.13972<br> 
-
-•	S. Haddadi, A. Akhound, "Thermal entanglement properties in two qubits one-axis spin squeezing model with an external magnetic field, Int. J. Theor. Phys. 58, 399 (2019). https://doi.org/10.1007/s10773-018-3941-x<br> 
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2018</span></span></font><br>
-                                    <ul style="text-align: justify;">
 
 •	Saeed Haddadi, Mohammad Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3<br> 
 
@@ -52,7 +61,6 @@ permalink: /publications/
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2017</span></span></font><br>
-                                    <ul style="text-align: justify;">
 
 •	S. Haddadi, "Comment on “Multipartite Entanglement in Four-qubit Graph States”", Int. J. Theor. Phys. 56, 2811 (2017). https://doi.org/10.1007/s10773-017-3447-y<br> 
 
