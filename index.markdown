@@ -10,7 +10,7 @@ layout: home
 <section id="about">
 	<div class="container">
 	  <div class="avatar">
-		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+		<img class="img-circle" src="{{ site.baseurl }}static/{{ site.avatar }}" alt="Responsive image">
 	  </div>
 
 
