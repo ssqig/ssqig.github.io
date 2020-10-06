@@ -13,15 +13,8 @@ layout: home
 		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
 	  </div>
 
-Some QIS institutes and research groups around the world:<br>
-                            <font size="2">[NB. The list is obviously incomplete.]</font>
-                        <p class="paragraph_style_4" align="justify">&nbsp;</p>
-                        <ul>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.iqi.caltech.edu/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.iqi.caltech.edu/">Institute for Quantum Information (IQI)</a></font><font size="2">, 
-                                        California Institute of Technology, USA</font></p></li>
+
+
                             
 
 
