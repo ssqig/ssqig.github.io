@@ -44,7 +44,7 @@ Our group includes motivated PhD and MSc students who are currently working on i
                                         <font size="2">Entropic Uncertainty Relations</font></p></li>
 										                                <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">Quamtum Memory</font></p></li>
+                                        <font size="2">Quantum Memory</font></p></li>
 					
 
 	
