@@ -10,11 +10,11 @@ layout: home
 <section id="about">
 	<div class="container">
 	  <div class="avatar">
-		<img class="img-circle" src="{{ site.baseurl }}static/{{ site.avatar }}" alt="Responsive image" width="250" height="250">
+		<img class="img-circle" src="{{ site.baseurl }}static/{{ site.avatar }}" alt="Responsive image" width="200" height="200">
 	  </div>
 
 
-
+/static/profile.png
                             
                         <ul>
 
