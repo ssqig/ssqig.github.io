@@ -14,7 +14,6 @@ layout: home
 	  </div>
 
 
-/static/profile.png
                             
                         <ul>
 
