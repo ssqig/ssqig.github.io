@@ -61,7 +61,7 @@ permalink: /publications/
 					
 							                                <li>
                                     <p class="paragraph_style_4" align="justify">				
-                                        <font size="2">Saeed Haddadi, Mohammad Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3</font></p></li>					
+                                        <font size="2">S. Haddadi, M. Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3</font></p></li>					
 					
 					
 
