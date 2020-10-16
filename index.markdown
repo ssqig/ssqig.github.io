@@ -24,8 +24,7 @@ layout: home
  <p class="paragraph_style_4" align="justify">
 Our group includes motivated PhD and MSc students who are currently working on interesting topics in the field of quantum information. I, Saeed Haddadi, the founder and CEO of Saeed's Quantum Information Group, welcome you to this quantum information world. Our group is currently working on the following topics: </p>
 <br><br><br>
-<aside>
-
+<blockquote>
                                 <li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Entropic Uncertainty Relations</font></p></li>
 		                <li><p class="paragraph_style_4" align="justify">
@@ -39,8 +38,7 @@ Our group includes motivated PhD and MSc students who are currently working on i
 				<li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Quantum Memory</font></p></li>
 					
-</aside>
-
+</blockquote>
 
 <br><br><br>
 
