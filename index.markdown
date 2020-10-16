@@ -49,5 +49,5 @@ Our group includes motivated PhD and MSc students who are currently working on i
 	
 
                                     <p class="paragraph_style_4" align="justify">
-We welcome motivated and hard-working students to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at </p> <a href="mailto: info@ssqig.com">info@ssqig.com</a></p>.
+We welcome motivated and hard-working students to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at </p> <p><a href="mailto: info@ssqig.com">info@ssqig.com</a></p>.
 
