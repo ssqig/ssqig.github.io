@@ -12,7 +12,7 @@ permalink: /publications/
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> A. Kumar, S. Haddadi, M. R. Pourkarimi, B. K. Behera, P. K. Panigrahi, "Experimental realization of controlled quantum teleportation of arbitrary qubit states via cluster states", Sci. Rep. 10, 13608 (2020). https://doi.org/10.1038/s41598-020-70446-8 </font></p></li>
+                                        <font size="2"> A. Kumar, S. Haddadi, M. R. Pourkarimi, B. K. Behera, P. K. Panigrahi, "Experimental realization of controlled quantum teleportation of arbitrary qubit states via cluster states", Sci. Rep. 10, 13608 (2020). <a href="https://doi.org/10.1038/s41598-020-70446-8/" target="_blank">https://doi.org/10.1038/s41598-020-70446-8</a> </font></p></li>
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -74,7 +74,7 @@ permalink: /publications/
 					
 
 
-</ul>
+
 
 
 
