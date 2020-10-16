@@ -20,7 +20,7 @@ permalink: /publications/
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Exploring entropic uncertainty relation and dense coding capacity in a two-qubit X-state",  <a href="https://doi.org/10.1088/1612-202X/aba2f0" target="_blank">Laser Phys. Lett. 17, 095205 (2020).</a> </font></p></font></p></li>
+                                        <font size="2">S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Exploring entropic uncertainty relation and dense coding capacity in a two-qubit X-state",  <a href="https://doi.org/10.1088/1612-202X/aba2f0" target="_blank">Laser Phys. Lett. 17, 095205 (2020).</a> </font></p></li>
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -28,7 +28,7 @@ permalink: /publications/
 					
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">M. R. Pourkarimi, S. Haddadi, "Quantum-memory-assisted entropic uncertainty, teleportation, and quantum discord under decohering environments", Laser Phys. Lett. 17, 025206 (2020). https://doi.org/10.1088/1612-202X/ab6a15</font></p></li>
+                                        <font size="2">M. R. Pourkarimi, S. Haddadi, "Quantum-memory-assisted entropic uncertainty, teleportation, and quantum discord under decohering environments",  <a href="https://doi.org/10.1088/1612-202X/ab6a15" target="_blank">Laser Phys. Lett. 17, 025206 (2020).</a> </font></p></li>
 					
 
 
@@ -36,7 +36,7 @@ permalink: /publications/
                                         2019</span></span></font><br>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Quantum correlations and quantum-memory-assisted entropic uncertainty relation in two kinds of spin squeezing models", Laser Phys. Lett. 16, 095202 (2020). https://doi.org/10.1088/1612-202X/ab2cc7</font></p></li>
+                                        <font size="2">S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Quantum correlations and quantum-memory-assisted entropic uncertainty relation in two kinds of spin squeezing models",   <a href="https://doi.org/10.1088/1612-202X/ab2cc7" target="_blank">Laser Phys. Lett. 16, 095202 (2020).</a></font></p></li>
 	                                <li>
                                     <p class="paragraph_style_4" align="justify">				
                                         <font size="2">S. Haddadi, A. Akhound, M. A. Chaman Motlagh, "Efficient entanglement measure for graph states", Int. J. Theor. Phys. 58, 3406 (2019). https://doi.org/10.1007/s10773-019-04214-4</font></p></li>
