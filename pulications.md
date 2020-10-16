@@ -20,11 +20,11 @@ permalink: /publications/
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Exploring entropic uncertainty relation and dense coding capacity in a two-qubit X-state", Laser Phys. Lett. 17, 095205 (2020). https://doi.org/10.1088/1612-202X/aba2f0</font></p></li>
+                                        <font size="2">S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Exploring entropic uncertainty relation and dense coding capacity in a two-qubit X-state",  <a href="https://doi.org/10.1088/1612-202X/aba2f0" target="_blank">Laser Phys. Lett. 17, 095205 (2020).</a> </font></p></font></p></li>
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">S. Haddadi, "A brief note on the Scott measure as a multipartite entanglement criterion", Laser Phys. Lett. 17, 075201 (2020). https://doi.org/10.1088/1612-202X/ab8fab</font></p></li>
+                                        <font size="2">S. Haddadi, "A brief note on the Scott measure as a multipartite entanglement criterion",  <a href="https://doi.org/10.1088/1612-202X/ab8fab" target="_blank">Laser Phys. Lett. 17, 075201 (2020).</a></font></p></li>
 					
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
