@@ -25,30 +25,22 @@ layout: home
  <p class="paragraph_style_4" align="justify">
 Our group includes motivated PhD and MSc students who are currently working on interesting topics in the field of quantum information. I, Saeed Haddadi, the founder and CEO of Saeed's Quantum Information Group, welcome you to this quantum information world. Our group is currently working on the following topics: </p>
 <br><br><br>
+<aside>
 
-                                <li>
-				  <p class="paragraph_style_4" align="justify">
+                                <li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Entropic Uncertainty Relations</font></p></li>
-		                                                        <li>
-				  <p class="paragraph_style_4" align="justify">
+		                <li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Open Quantum Systems</font></p></li>
-					                                <li>
-				  <p class="paragraph_style_4" align="justify">
+				<li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Quantum Teleportation</font></p></li>
-					                                <li>
-                                    <p class="paragraph_style_4" align="justify">
+				<li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Quantum Correlations</font></p></li>
-					                                <li>
-                                    <p class="paragraph_style_4" align="justify">
+				<li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Quantum Channels</font></p></li>
-					                                <li>
-                                    <p class="paragraph_style_4" align="justify">
+				<li><p class="paragraph_style_4" align="justify">
                                         <font size="2">Quantum Memory</font></p></li>
 					
-
-	
-
-                                    <p class="paragraph_style_4" align="justify">
+</aside>
 
 
 <br><br><br>
