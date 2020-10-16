@@ -169,7 +169,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
-    kramdown (1.14.0)
+    kramdown 
     liquid (4.0.0)
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
@@ -216,7 +216,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 168)
-  jekyll (~> 3.6.2)
-
+  jekyll
 BUNDLED WITH
    2.1.4
