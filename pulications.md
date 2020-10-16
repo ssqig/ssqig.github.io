@@ -74,7 +74,6 @@ permalink: /publications/
 					
 
 
-</ul>
 
 
 
