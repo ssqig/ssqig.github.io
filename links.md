@@ -9,11 +9,7 @@ permalink: /links/
 		
 		
 	
-                        <p class="paragraph_style_4" align="justify">&nbsp;</p>
-                        <blockquote>
-                            <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="2">Some journals publishing QIS-related 
-                                    papers (among other subjects):</font></span></b></p>
+                       Some journals publishing QIS-related papers (among other subjects):
                             <ul>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -108,14 +104,7 @@ permalink: /links/
 	
 		
 		
-		
-		
-
-
-<p class="paragraph_style_4" align="justify">&nbsp;</p>
-                        <blockquote>
-                            <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="2">Some QIS institutes and research groups around the world:</font></span></b></p>
+Some QIS institutes and research groups around the world:
                             <ul>
                                 <li><br>
                             <font size="2">[NB. The list is obviously incomplete.]</font>
