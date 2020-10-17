@@ -73,7 +73,7 @@ permalink: /publications/
 					
 												                                <li>
                                     <p class="paragraph_style_4" align="justify">				
-                                        <font size="2">S. Haddadi, "Comment on Multipartite Entanglement in Four-qubit Graph States",  <a href="https://doi.org/10.1007/s10773-017-3447-y" target="_blank">Int. J. Theor. Phys. 56, 2811 (2017).</font></p></li>					
+                                        <font size="2">S. Haddadi, "Comment on Multipartite Entanglement in Four-qubit Graph States",  <a href="https://doi.org/10.1007/s10773-017-3447-y" target="_blank">Int. J. Theor. Phys. 56, 2811 (2017).</a></font></p></li>					
 					
 					
 
