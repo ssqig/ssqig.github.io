@@ -9,7 +9,8 @@ permalink: /links/
 		
 		
 	
-                       Some journals publishing QIS-related papers (among other subjects):
+                       <p class="paragraph_style_4" align="justify">
+                                <b><span class="style"><font size="2">Some journals that publish papers on quantum information science:</font></span></b></p>
                             <ul>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
