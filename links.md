@@ -106,10 +106,12 @@ permalink: /links/
 	
  </ul>	
  <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="2">Some QIS institutes and research groups around the world:</font></span></b></p>
+                                <b><span class="style"><font size="2">Some quantum information science institutes and research groups around the world:</font></span></b></p>
 
-[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]<br>
+<p class="paragraph_style_4" align="justify">
+                                <b><span class="style"><font size="1.5">[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]</font></span></b></p><br>
 
+                       
                         <ul>
 			
 			
