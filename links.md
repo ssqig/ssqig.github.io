@@ -8,7 +8,7 @@ permalink: /links/
 		
 		
 		
-	 </ul>
+	
                         <p class="paragraph_style_4" align="justify">&nbsp;</p>
                         <blockquote>
                             <p class="paragraph_style_4" align="justify">
@@ -112,7 +112,12 @@ permalink: /links/
 		
 
 
-Some QIS institutes and research groups around the world:<br>
+<p class="paragraph_style_4" align="justify">&nbsp;</p>
+                        <blockquote>
+                            <p class="paragraph_style_4" align="justify">
+                                <b><span class="style"><font size="2">Some QIS institutes and research groups around the world:</font></span></b></p>
+                            <ul>
+                                <li><br>
                             <font size="2">[NB. The list is obviously incomplete.]</font>
                         <p class="paragraph_style_4" align="justify">&nbsp;</p>
                         <ul>
