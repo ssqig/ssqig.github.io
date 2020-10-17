@@ -97,18 +97,17 @@ permalink: /links/
                                         <font size="2">
                                             <a title="http://iopscience.iop.org/0953-4075/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/0953-4075/">Journal of Physics B: Atomic, Molecular and 
                                                 Optical Physics</a></font></p></li>
+						
+						<br><br>
         
 	
 	
 	
 	
-		
-		
 Some QIS institutes and research groups around the world:
-                            <ul>
-                                <li><br>
-                            <font size="2">[NB. The list is obviously incomplete.]</font>
-                        <p class="paragraph_style_4" align="justify">&nbsp;</p>
+<br>
+[NB. The list is obviously incomplete.]
+
                         <ul>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
