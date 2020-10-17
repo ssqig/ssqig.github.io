@@ -5,6 +5,111 @@ permalink: /links/
 ---
 <section id="links">
 	<div class="container">
+		
+		
+		
+	 </ul>
+                        <p class="paragraph_style_4" align="justify">&nbsp;</p>
+                        <blockquote>
+                            <p class="paragraph_style_4" align="justify">
+                                <b><span class="style"><font size="2">Some journals publishing QIS-related 
+                                    papers (among other subjects):</font></span></b></p>
+                            <ul>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.virtualjournals.org/quantuminfo/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.virtualjournals.org/quantuminfo/">Virtual Journal of Quantum Information</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.sciencemag.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencemag.org/">Science</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.nature.com/index.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.nature.com/index.html">Nature</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.nature.com/nphys/index.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.nature.com/nphys/index.html">Nature Physics</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://prl.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://prl.aps.org/">Physical Review Letters</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://pra.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://pra.aps.org/">Physical Review A</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://prb.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://prb.aps.org/">Physical Review B</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://pre.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://pre.aps.org/">Physical Review E</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://iopscience.iop.org/1367-2630" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/1367-2630">New Journal of Physics</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.pnas.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.pnas.org/">Proceedings of National Academy of Sciences</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.rintonpress.com/journals/qiconline.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.rintonpress.com/journals/qiconline.html">Quantum Information and Computation</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.springerlink.com/content/109193/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.springerlink.com/content/109193/">Quantum Information Processing</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.sciencedirect.com/science/journal/03759601" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencedirect.com/science/journal/03759601">Physics Letters A</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.sciencedirect.com/science/journal/00034916" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencedirect.com/science/journal/00034916">Annals of Physics</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.worldscinet.com/ijqi/ijqi.shtml" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.worldscinet.com/ijqi/ijqi.shtml">International Journal of Quantum Information</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://epljournal.edpsciences.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://epljournal.edpsciences.org/">Europhysics Letters</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.tandf.co.uk/journals/jmo" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.tandf.co.uk/journals/jmo">Journal of Modern Optics</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://jmp.aip.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://jmp.aip.org/">Journal of Mathematical Physics</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://www.springerlink.com/content/100467/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.springerlink.com/content/100467/">Communications in Mathematical Physic</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://iopscience.iop.org/1751-8121" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/1751-8121">Journal of Physics A: Mathematical and 
+                                                Theoretical</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://iopscience.iop.org/0953-4075/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/0953-4075/">Journal of Physics B: Atomic, Molecular and 
+                                                Optical Physics</a></font></p></li>
+        
+	
+	
+	
+	
+		
+		
+		
+		
 
 
 Some QIS institutes and research groups around the world:<br>
@@ -283,97 +388,4 @@ Some QIS institutes and research groups around the world:<br>
                                         <font size="2">
                                             <a title="http://www.quantumlah.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.quantumlah.org/">Center for Quantum Technologies (CQT)</a></font><font size="2">, 
                                         National University of Singapore, Singapore </font></p></li>
-                            </ul>
-                        <p class="paragraph_style_4" align="justify">&nbsp;</p>
-                        <blockquote>
-                            <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="2">Some journals publishing QIS-related 
-                                    papers (among other subjects):</font></span></b></p>
-                            <ul>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.virtualjournals.org/quantuminfo/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.virtualjournals.org/quantuminfo/">Virtual Journal of Quantum Information</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.sciencemag.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencemag.org/">Science</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.nature.com/index.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.nature.com/index.html">Nature</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.nature.com/nphys/index.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.nature.com/nphys/index.html">Nature Physics</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://prl.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://prl.aps.org/">Physical Review Letters</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://pra.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://pra.aps.org/">Physical Review A</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://prb.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://prb.aps.org/">Physical Review B</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://pre.aps.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://pre.aps.org/">Physical Review E</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://iopscience.iop.org/1367-2630" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/1367-2630">New Journal of Physics</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.pnas.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.pnas.org/">Proceedings of National Academy of Sciences</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.rintonpress.com/journals/qiconline.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.rintonpress.com/journals/qiconline.html">Quantum Information and Computation</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.springerlink.com/content/109193/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.springerlink.com/content/109193/">Quantum Information Processing</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.sciencedirect.com/science/journal/03759601" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencedirect.com/science/journal/03759601">Physics Letters A</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.sciencedirect.com/science/journal/00034916" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencedirect.com/science/journal/00034916">Annals of Physics</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.worldscinet.com/ijqi/ijqi.shtml" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.worldscinet.com/ijqi/ijqi.shtml">International Journal of Quantum Information</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://epljournal.edpsciences.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://epljournal.edpsciences.org/">Europhysics Letters</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.tandf.co.uk/journals/jmo" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.tandf.co.uk/journals/jmo">Journal of Modern Optics</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://jmp.aip.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://jmp.aip.org/">Journal of Mathematical Physics</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://www.springerlink.com/content/100467/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.springerlink.com/content/100467/">Communications in Mathematical Physic</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://iopscience.iop.org/1751-8121" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/1751-8121">Journal of Physics A: Mathematical and 
-                                                Theoretical</a></font></p></li>
-                                <li>
-                                    <p class="paragraph_style_4" align="justify">
-                                        <font size="2">
-                                            <a title="http://iopscience.iop.org/0953-4075/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/0953-4075/">Journal of Physics B: Atomic, Molecular and 
-                                                Optical Physics</a></font></p></li>
-        
+                           
