@@ -109,7 +109,7 @@ permalink: /links/
                                 <b><span class="style"><font size="2">Some quantum information science institutes and research groups around the world:</font></span></b></p>
 
 <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="1.8">[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]</font></span></b></p><br>
+                                <b><span class="style"><font size="2">[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]</font></span></b></p><br>
 
                        
                         <ul>
