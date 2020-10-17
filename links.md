@@ -106,11 +106,18 @@ permalink: /links/
 	
  </ul>	
  <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="2">Some QIS institutes and research groups around the world:</font></span></b></p><br>
+                                <b><span class="style"><font size="2">Some QIS institutes and research groups around the world:</font></span></b></p>
 
-[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]
+[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]<br>
 
                         <ul>
+			
+			
+			 <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://physics.sharif.edu/~qc/index.html" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://physics.sharif.edu/~qc/index.html">Quantum Information Science (QIS)</a></font><font size="2">, 
+                                        Sharif University of Technology, IR</font></p></li>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
