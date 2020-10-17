@@ -8,7 +8,7 @@ permalink: /contact/
  
 	<div class="container">
                   <div class="avatar">
-                    <img class="img-circle" src="/static/post.png" alt="Responsive image" width="70" height="70">
+                    <img class="img-circle" src="/static/post.png" alt="Responsive image" width="90" height="90">
                   </div><br> 
   
 Saeed's Quantum Information Group <br> 
