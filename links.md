@@ -10,7 +10,7 @@ permalink: /links/
 		
 	
                        <p class="paragraph_style_4" align="justify">
-                                <b><span class="style"><font size="2">Some journals that publish papers on quantum information science:</font></span></b></p>
+                                <b><span class="style"><font size="2">Some journals that publish papers on quantum information science:</font></span></b></p><br>
                             <ul>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -105,9 +105,10 @@ permalink: /links/
 	
 	
  </ul>	
-Some QIS institutes and research groups around the world:
-<br>
-[NB. The list is obviously incomplete.]
+ <p class="paragraph_style_4" align="justify">
+                                <b><span class="style"><font size="2">Some QIS institutes and research groups around the world:</font></span></b></p><br>
+
+[The list is obviously incomplete. So please see <a href="https://www.quantiki.org/groups" target="_blank">Quantiki</a>]
 
                         <ul>
                                 <li>
