@@ -3,8 +3,14 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-<a href="default.asp"><img src="SQIG.jpg" alt="HTML tutorial" style="width:82px;height:82px;"></a>
+
 <center>
+   </div>
+	<div class="container">
+                  <div class="avatar">
+                    <img class="img-circle" src="/static/post.png" alt="Responsive image" width="70" height="70">
+                  </div><br> 
+  
 Saeed's Quantum Information Group,<br> 
 
 P.O.Box 19395-0560, Tehran, Iran  <br>
