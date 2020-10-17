@@ -103,7 +103,7 @@ permalink: /links/
 	
 	
 	
-	
+ </ul>	
 Some QIS institutes and research groups around the world:
 <br>
 [NB. The list is obviously incomplete.]
