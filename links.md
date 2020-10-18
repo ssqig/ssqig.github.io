@@ -151,6 +151,11 @@ permalink: /links/
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
                                             <a title="https://iopscience.iop.org/journal/1555-6611" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://iopscience.iop.org/journal/1555-6611">Laser Physics</a></font></p></li>
+					      <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://www.journals.elsevier.com/optics-communications/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.journals.elsevier.com/optics-communications/">Optics Communications</a></font></p></li>
+					 
 						
 						<br><br>
         
