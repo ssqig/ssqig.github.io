@@ -23,7 +23,8 @@ permalink: /members/
 
                                 <ul> <li><b><font size="2">xxxxx</font></b><font size="2"> (Assistant Professor)</font></li></ul>
                                 <ul><li><b><font size="2">xxxxxxx</font></b><font size="2"> (Assistant Professor)</font></li></ul> 
-                                <ul><li><b><font size="2">Mostafa Mansour</font></b><font size="2"> (Assistant Professor)</font></li>
+                                <ul><li><b><font size="2">Mostafa Mansour</font></b><font size="2"> (Assistant Professor, Université Hassan II de Casablanca)</font></li></ul> 
+				<ul><li><b><font size="2">Bikash K. Behera</font></b><font size="2"> (Ph.D. student, Bikash's Quantum)</font></li>
 				
 				
 				</ul>
@@ -35,6 +36,14 @@ permalink: /members/
                                 <ul><li><b><font size="2">Mohammad Bohloul</font></b><font size="2"> (xxxx)</font></li></ul> 
                                 <ul><li><b><font size="2">xxxx</font></b><font size="2"> (xxxx)</font></li></ul>
 				<ul><li><b><font size="2">xxxx</font></b><font size="2"> (xxxx)</font></li>
+				
+				</ul>
+                                <br>
+
+                                <p align="justify"><b><font size="2">Former fellows:</font></b></p>
+
+                                <ul> <li><b><font size="2">Ahmad Akhound</font></b><font size="2"> (Associate Professor)</font></li></ul>
+                                <ul><li><b><font size="2">Mohammad Ali Chaman Motlagh</font></b><font size="2"> (Assistant Professor)</font></li>
 				
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
