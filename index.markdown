@@ -5,8 +5,7 @@
 layout: home
 ---
 
-  <td>
-                <img src="static/SQIG.jpg" alt="" border="0" height="90" width="500"></td>
+ 
 
 
 
