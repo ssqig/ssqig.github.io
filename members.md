@@ -13,7 +13,7 @@ permalink: /members/
 
                                 <p align="justify"><b><font size="2">Principal investigator:</font></b></p>
 
-                                <ul> <li><b><font size="2">Saeed Haddadi</font></b><font size="2">(Founder and CEO of SSQIG)</font></li>
+                                <ul> <li><b><font size="2">Saeed Haddadi</font></b><font size="2"> (Founder and CEO of SSQIG)</font></li>
                                 
 
                                 </ul>
