@@ -30,7 +30,7 @@ permalink: /publications/
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">M. R. Pourkarimi, S. Haddadi, "Quantum-memory-assisted entropic uncertainty, teleportation, and quantum discord under decohering environments",  <a href="https://doi.org/10.1088/1612-202X/ab6a15" target="_blank">Laser Phys. Lett. 17, 025206 (2020).</a> </font></p></li>
 					
-
+<br>
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2019</span></span></font><br>
@@ -54,7 +54,7 @@ permalink: /publications/
                                     <p class="paragraph_style_4" align="justify">				
                                         <font size="2">S. Haddadi, A. Akhound, "Thermal entanglement properties in two qubits one-axis spin squeezing model with an external magnetic field,  <a href="https://doi.org/10.1007/s10773-018-3941-x" target="_blank">Int. J. Theor. Phys. 58, 399 (2019).</a></font></p></li>					
 
-
+<br>
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2018</span></span></font><br>
@@ -65,7 +65,7 @@ permalink: /publications/
 					
 					
 
-
+<br>
 
                                     <font size="2"><span class="style"><span style="font-weight: 700;">
                                         2017</span></span></font><br>
