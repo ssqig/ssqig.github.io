@@ -5,6 +5,14 @@
 layout: home
 ---
 
+ </style></head><body leftmargin="0" topmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="896">
+        <tbody><tr>
+            <td>
+                <img src="static/SQIG.jpg" alt="" border="0" height="182" width="937"></td>
+            </tr>
+
+
 
 <br><br>
 <section id="about">
