@@ -11,9 +11,9 @@ permalink: /members/
 			        </ul>
                                 <br>
 
-                                <p align="justify"><b><font size="2">Founder and principal investigator:</font></b></p>
+                                <p align="justify"><b><font size="2">Principal investigator:</font></b></p>
 
-                                <ul> <li><b><font size="2">Saeed Haddadi</font></b><font size="2"> </font></li>
+                                <ul> <li><b><font size="2">Saeed Haddadi</font></b><font size="2">(Founder and CEO of SSQIG)</font></li>
                                 
 
                                 </ul>
@@ -33,8 +33,8 @@ permalink: /members/
 
                                 <ul> <li><b><font size="2">Majid Azizi</font></b><font size="2"> (Semnan University)</font></li></ul>
                                 <ul><li><b><font size="2">Mohammad Bohloul</font></b><font size="2"> (xxxx)</font></li></ul> 
-                                <ul><li><b><font size="2">xxxx</font></b><font size="2"> (e-mail:)</font></li></ul>
-				<ul><li><b><font size="2">xxxx</font></b><font size="2"> (e-mail:)</font></li>
+                                <ul><li><b><font size="2">xxxx</font></b><font size="2"> (xxxx)</font></li></ul>
+				<ul><li><b><font size="2">xxxx</font></b><font size="2"> (xxxx)</font></li>
 				
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
