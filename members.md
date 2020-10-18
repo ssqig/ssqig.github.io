@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Members
-permalink: /members/
+title: People
+permalink: /People/
 ---
 
-<section id="members">
+<section id="People">
 	<div class="container">
 		<ul>
 			
