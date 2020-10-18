@@ -15,7 +15,7 @@ permalink: /links/
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
-                                            <a title="http://www.virtualjournals.org/quantuminfo/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.virtualjournals.org/quantuminfo/">Virtual Journal of Quantum Information</a></font></p></li>
+                                            <a title="https://www.nature.com/srep" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.nature.com/srep">Scientific Reports</a></font></p></li>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
@@ -51,7 +51,7 @@ permalink: /links/
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
-                                            <a title="http://www.pnas.org/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.pnas.org/">Proceedings of National Academy of Sciences</a></font></p></li>
+                                            <a title="https://www.worldscientific.com/worldscinet/mpla" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.worldscientific.com/worldscinet/mpla">Modern Physics Letters A</a></font></p></li>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
@@ -68,6 +68,11 @@ permalink: /links/
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
                                             <a title="http://www.sciencedirect.com/science/journal/00034916" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.sciencedirect.com/science/journal/00034916">Annals of Physics</a></font></p></li>
+					    <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://www.springer.com/journal/10773/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.springer.com/journal/10773/">International Journal of Theoretical Physics</a></font></p></li>
+					    
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
@@ -98,6 +103,54 @@ permalink: /links/
                                         <font size="2">
                                             <a title="http://iopscience.iop.org/0953-4075/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/0953-4075/">Journal of Physics B: Atomic, Molecular and 
                                                 Optical Physics</a></font></p></li>
+						
+						  <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://www.springer.com/journal/13360/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.springer.com/journal/13360/">The European Physical Journal Plus</a></font></p></li>
+						
+						  <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://www.springer.com/journal/10053/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.springer.com/journal/10053/">The European Physical Journal D</a></font></p></li>
+					    
+					      <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://www.springer.com/journal/13538" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.springer.com/journal/13538">Brazilian Journal of Physics</a></font></p></li>
+					    
+					     <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://www.springer.com/journal/12648" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://www.springer.com/journal/12648">Indian Journal of Physics</a></font></p></li>
+					    
+					       <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://iopscience.iop.org/journal/1674-1056" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/journal/1674-1056">Chinese Physics B</a></font></p></li>
+					    
+					    	       <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://iopscience.iop.org/journal/0253-6102" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/journal/0253-6102">Communications in Theoretical Physics</a></font></p></li>
+					    
+					           <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="http://iopscience.iop.org/journal/2058-9565" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://iopscience.iop.org/journal/2058-9565">Quantum Science and Technology</a></font></p></li>
+					    
+					     <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://iopscience.iop.org/journal/1402-4896" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://iopscience.iop.org/journal/1402-4896">Physica Scripta</a></font></p></li>
+					     <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://iopscience.iop.org/journal/1612-202X" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://iopscience.iop.org/journal/1612-202X">Laser Physics Letters</a></font></p></li>
+					         <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://iopscience.iop.org/journal/1555-6611" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://iopscience.iop.org/journal/1555-6611">Laser Physics</a></font></p></li>
 						
 						<br><br>
         
