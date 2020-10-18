@@ -19,10 +19,10 @@ permalink: /members/
                                 </ul>
                                 <br>
 
-                                <p align="justify"><b><font size="2">Research Fellows:</font></b></p>
+                                <p align="justify"><b><font size="2">Research fellows:</font></b></p>
 
-                                <ul> <li><b><font size="2">xxxxx</font></b><font size="2"> (Assistant Professor)</font></li></ul>
-                                <ul><li><b><font size="2">xxxxxxx</font></b><font size="2"> (Assistant Professor)</font></li></ul> 
+                                <ul> <li><b><font size="2">Mohammad Reza Pourkarimi</font></b><font size="2"> (Assistant Professor, Salman Farsi University of Kazerun)</font></li></ul>
+                                <ul><li><b><font size="2">Soroush Haseli</font></b><font size="2"> (Assistant Professor, Urmia University of Technology)</font></li></ul> 
                                 <ul><li><b><font size="2">Mostafa Mansour</font></b><font size="2"> (Assistant Professor, Université Hassan II de Casablanca)</font></li></ul> 
 				<ul><li><b><font size="2">Bikash K. Behera</font></b><font size="2"> (Ph.D. student, Bikash's Quantum)</font></li>
 				
