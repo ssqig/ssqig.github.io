@@ -24,7 +24,7 @@ permalink: /People/
                                 <ul> <li><b><font size="2">Mohammad Reza Pourkarimi</font></b><font size="2"> (Assistant Professor, Salman Farsi University of Kazerun)</font></li></ul>
                                 <ul><li><b><font size="2">Soroush Haseli</font></b><font size="2"> (Assistant Professor, Urmia University of Technology)</font></li></ul> 
                                 <ul><li><b><font size="2">Mostafa Mansour</font></b><font size="2"> (Assistant Professor, Université Hassan II de Casablanca)</font></li></ul> 
-				<ul><li><b><font size="2">Bikash K. Behera</font></b><font size="2"> (Ph.D. student, Bikash's Quantum)</font></li>
+				<ul><li><b><font size="2">Bikash K. Behera</font></b><font size="2"> (Ph.D. student, Indian Institute of Science Education and Research Kolkata)</font></li>
 				
 				
 				</ul>
@@ -33,9 +33,7 @@ permalink: /People/
                                 <p align="justify"><b><font size="2">Ph.D. students:</font></b></p>
 
                                 <ul> <li><b><font size="2">Majid Azizi</font></b><font size="2"> (Semnan University)</font></li></ul>
-                                <ul><li><b><font size="2">Mohammad Bohloul</font></b><font size="2"> (xxxx)</font></li></ul> 
-                                <ul><li><b><font size="2">xxxx</font></b><font size="2"> (xxxx)</font></li></ul>
-				<ul><li><b><font size="2">xxxx</font></b><font size="2"> (xxxx)</font></li>
+                                <ul><li><b><font size="2">Mohammad Bohloul</font></b><font size="2"> (xxxx)</font></li>
 				
 				</ul>
                                 <br>
