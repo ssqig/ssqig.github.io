@@ -41,8 +41,8 @@ permalink: /People/
 
                                 <p align="justify"><b><font size="2">Former fellows:</font></b></p>
 
-                                <ul> <li><b><font size="2">Ahmad Akhound</font></b><font size="2"> (Associate Professor)</font></li></ul>
-                                <ul><li><b><font size="2">Mohammad Ali Chaman Motlagh</font></b><font size="2"> (Assistant Professor)</font></li>
+                                <ul> <li><b><font size="2">Ahmad Akhound</font></b><font size="2"> (Associate Professor, PNU)</font></li></ul>
+                                <ul><li><b><font size="2">Mohammad Ali Chaman Motlagh</font></b><font size="2"> (Assistant Professor, PNU)</font></li>
 				
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
