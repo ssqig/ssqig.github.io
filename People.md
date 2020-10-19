@@ -25,8 +25,8 @@ permalink: /People/
                                 <ul><li><b><font size="2">Soroush Haseli</font></b><font size="2"> (Assistant Professor, Urmia University of Technology)</font></li></ul> 
                                 <ul><li><b><font size="2">Mostafa Mansour</font></b><font size="2"> (Assistant Professor, Université Hassan II de Casablanca)</font></li></ul>
 				<ul><li><b><font size="2">Prasanta K. Panigrahi</font></b><font size="2"> (Professor, Indian Institute of Science Education and Research Kolkata)</font></li></ul>
-				<ul><li><b><font size="2">Bikash K. Behera</font></b><font size="2"> (Ph.D. student, Indian Institute of Science Education and Research Kolkata)</font></li>
-				
+				<ul><li><b><font size="2">Bikash K. Behera</font></b><font size="2"> (Ph.D. student, Indian Institute of Science Education and Research Kolkata)</font></li></ul>
+				ul><li><b><font size="2">Abhijeet Kumar</font></b><font size="2"> (M.Sc. student, Central University of Jharkhand)</font></li>
 				
 				</ul>
                                 <br>
@@ -45,4 +45,4 @@ permalink: /People/
                                 <ul><li><b><font size="2">Mohammad Ali Chaman Motlagh</font></b><font size="2"> (Assistant Professor)</font></li>
 				
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
