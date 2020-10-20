@@ -7,7 +7,21 @@ permalink: /links/
 	<div class="container">
 		
 		
+		<p class="paragraph_style_4" align="justify">
+                                <b><span class="style"><font size="2">Useful links:</font></span></b></p><br>
+                            <ul>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://arxiv.org/list/quant-ph/recent" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://arxiv.org/list/quant-ph/recent">arXiv:Quantum Physics</a></font></p></li>
+                                <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">
+                                            <a title="https://scholar.google.com/" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="https://scholar.google.com/">Google Scholar</a></font></p></li>
 		
+		
+		<br><br>
+		</ul>	
 	
                        <p class="paragraph_style_4" align="justify">
                                 <b><span class="style"><font size="2">Some journals that publish papers on quantum information science:</font></span></b></p><br>
