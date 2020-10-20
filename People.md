@@ -17,7 +17,7 @@ permalink: /People/
                                 
 
                                 </ul>
-                                <br>
+                                <br><br>
 
                                 <p align="justify"><b><font size="2">Research fellows:</font></b></p>
 
@@ -32,7 +32,7 @@ permalink: /People/
 				
 
 				</ul>
-                                <br>
+                                <br><br>
 
                                 <p align="justify"><b><font size="2">Former fellows:</font></b></p>
 
