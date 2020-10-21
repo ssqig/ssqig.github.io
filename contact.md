@@ -20,19 +20,23 @@ Email: info@SSQIG.com
 <br><br>
 
 
-<section id="contact-form">
-  <h2>Contact</h2>
-  <form id="contact" name="contact" accept-charset="utf-8">
-    <label><span>Name</span><input name="name" type="text" placeholder="Name"/></label>
-    <label><span>Email</span><input name="email" type="email" placeholder="Email"/></label>
-    <label><span>Message</span><textarea name="message" placeholder="Message"></textarea></label>
-    <input name="submit" type="submit" value="Send"/>
-  </form>
-  <aside>
-    <p>Just hit Send on an empty form to see the invalid input animation</p>
-    <p>Fill in the form fields to see the success animation (no real validation, any random input will do)</p>
-  </aside>
-</section>
+<div class="cont-contactBtn">
+					<div class="cont-flip">
+						<div class="front">
+							<a href="#" class="btn btn-white flip">Send Message</a>
+						</div>
+						<div class="back">
+							<a href="#" class="flip close"></a>
+							<form class="contact-form" action="">
+								<input class="gutter" type="text" placeholder="Name">
+								<input type="text" placeholder="Company">
+								<input class="gutter" type="text" placeholder="Telephone">
+								<input type="text" placeholder="Email">
+								<textarea name="" id="" placeholder="Leave a message"></textarea>
+								<input type="submit" value="Send">
+							</form>
+						</div>
+					</div>
 
 
 <br><br><br><br><br>
