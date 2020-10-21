@@ -400,7 +400,7 @@ permalink: /links/
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
-                                            <a title="http://www.isi.it/main.php?liv1=research&amp;liv2=quantum_physics&amp;liv3=quantum_information" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.isi.it/main.php?liv1=research&amp;liv2=quantum_physics&amp;liv3=quantum_information">Institute for Scientific Interchange (ISI)</a></font><font size="2">, 
+                                            <a title="http://www.isi.it" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.isi.it">Institute for Scientific Interchange (ISI)</a></font><font size="2">, 
                                         Italy</font></p></li>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
