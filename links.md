@@ -318,8 +318,8 @@ permalink: /links/
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
-                                            <a title="http://arxiv.org/abs/1009.3307" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://arxiv.org/abs/1009.3307">Computing Laboratory</a></font><font size="2">, 
-                                        University of Oxford, UK</font></p></li>
+                                            <a title="http://www.lkb.upmc.fr/opticalimaging/#home" onkeypress="window.open(this.href); return false;" onclick="window.open(this.href); return false;" href="http://www.lkb.upmc.fr/opticalimaging/#home">COMPLEX MEDIA OPTICS LAB</a></font><font size="2">, 
+                                        Sorbonne Université, France</font></p></li>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">
