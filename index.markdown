@@ -16,7 +16,7 @@ layout: home
 		<img class="img-circle" src="{{ site.baseurl }}static/{{ site.avatar }}" alt="Responsive image" width="230" height="230">
 	  </div>
 
-<br><br>
+<br>
  <p class="paragraph_style_4" align="justify">
 Our group includes motivated PhD and MSc students who are currently working on interesting topics in the field of quantum information. I, Saeed Haddadi, the founder and CEO of Saeed's Quantum Information Group (SSQIG), welcome you to this quantum information world. Certainly, SSQIG is a private group and is not affiliated with any institution or university.</p>
 
@@ -32,7 +32,7 @@ Our group includes motivated PhD and MSc students who are currently working on i
 	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Memory</font></p></li>					
 </ul>
 
-<br><br><br>
+<br><br>
 
 <p align="justify"> We welcome motivated and hard-working students to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at <a href="mailto:info@ssqig.com">info@SSQIG.com</a></p>.<br>
 
