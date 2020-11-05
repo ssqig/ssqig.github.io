@@ -23,7 +23,7 @@ Email: saeed@SSQIG.com <br><br>
                   <div class="avatar">
                     <img class="img-circle" src="/static/twitter.png" alt="Responsive image" width="20" height="20">
                   </div>
-		<a href="https://twitter.com/ssqig1" rel="nofollow noopener noreferrer"><i class="1" aria-hidden="true"></i> Twitter</a>
+		<a href="https://twitter.com/ssqig1" target="_blank">Twitter</a>
 
 
 
