@@ -19,8 +19,8 @@ Email: saeed@SSQIG.com <br>
   
 <div class="container">
                   <div class="avatar">
-                    <img class="img-circle" src="/static/twitter.png" alt="Responsive image" width="10" height="10">
-                  </div><br> <a href="https://twitter.com/ssqig1" rel="nofollow noopener noreferrer"><i class="/static/post.png" aria-hidden="true"></i> Twitter</a>
+                    <img class="img-circle" src="/static/twitter.png" alt="Responsive image" width="20" height="20">
+                  </div><br><a href="https://twitter.com/ssqig1" rel="nofollow noopener noreferrer"><i class="/static/post.png" aria-hidden="true"></i> Twitter</a>
 
 
 
