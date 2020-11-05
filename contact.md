@@ -15,9 +15,10 @@ Saeed's Quantum Information Group <br>
 
 P.O.Box 19395-0560, Tehran, Iran  <br>
   
-Email: saeed@SSQIG.com <br>
+Email: saeed@SSQIG.com <br><br>
   
-<div class="container">
+<center>
+	<div class="container">
                   <div class="avatar">
                     <img class="img-circle" src="/static/twitter.png" alt="Responsive image" width="20" height="20">
                   </div><a href="https://twitter.com/ssqig1" rel="nofollow noopener noreferrer"><i class="/static/post.png" aria-hidden="true"></i> Twitter</a>
