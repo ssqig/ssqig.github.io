@@ -12,7 +12,7 @@ permalink: /publications/
 	
 	<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">M. R. Pourkarimi, S. Haddadi, S. Haseli "Exploration of entropic uncertainty bound in a symmetric multi-qubit system under noisy channels",  <a href="https://doi.org/10.1088/1402-4896/abc505" target="_blank">Phys. Scr. 95 (2020).</a> </font></p></li>
+                                        <font size="2">M. R. Pourkarimi, S. Haddadi, S. Haseli, "Exploration of entropic uncertainty bound in a symmetric multi-qubit system under noisy channels",  <a href="https://doi.org/10.1088/1402-4896/abc505" target="_blank">Phys. Scr. 95 (2020).</a> </font></p></li>
 	
 	                         <li>
                                     <p class="paragraph_style_4" align="justify">
