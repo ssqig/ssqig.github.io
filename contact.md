@@ -17,7 +17,7 @@ P.O.Box 19395-0560, Tehran, Iran  <br>
   
 Email: saeed@SSQIG.com <br>
   
-<a href="https://twitter.com/ssqig" rel="nofollow noopener noreferrer"><i class="/static/post.png" aria-hidden="true"></i> Twitter</a>
+<a href="https://twitter.com/ssqig1" rel="nofollow noopener noreferrer"><i class="/static/post.png" aria-hidden="true"></i> Twitter</a>
 
 
 
