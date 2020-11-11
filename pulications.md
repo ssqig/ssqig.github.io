@@ -12,7 +12,7 @@ permalink: /publications/
 	
 	<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">M. R. Pourkarimi, S. Haddadi, S. Haseli, "Exploration of entropic uncertainty bound in a symmetric multi-qubit system under noisy channels",  <a href="https://doi.org/10.1088/1402-4896/abc505" target="_blank">Phys. Scr. 95 (2020).</a> </font></p></li>
+                                        <font size="2">M. R. Pourkarimi, S. Haddadi, S. Haseli, "Exploration of entropic uncertainty bound in a symmetric multi-qubit system under noisy channels",  <a href="https://doi.org/10.1088/1402-4896/abc505" target="_blank">Phys. Scr. 96, 015101 (2021).</a> </font></p></li>
 	
 	                         <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -80,6 +80,8 @@ permalink: /publications/
                                         <font size="2">S. Haddadi, "Comment on Multipartite Entanglement in Four-qubit Graph States",  <a href="https://doi.org/10.1007/s10773-017-3447-y" target="_blank">Int. J. Theor. Phys. 56, 2811 (2017).</a></font></p></li>					
 					
 					
+
+
 
 
 
