@@ -7,12 +7,19 @@ permalink: /publications/
 <section id="links">
 	<div class="container">
 		<ul>
-	
-<span class="style"><span style="font-weight: 700;">2020</span><br>
+			
+			
+			<span class="style"><span style="font-weight: 700;">2021</span><br>
 	
 	<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">M. R. Pourkarimi, S. Haddadi, S. Haseli, "Exploration of entropic uncertainty bound in a symmetric multi-qubit system under noisy channels",  <a href="https://doi.org/10.1088/1402-4896/abc505" target="_blank">Phys. Scr. 96, 015101 (2021).</a> </font></p></li>
+			
+			<br>
+			
+	
+                        <span class="style"><span style="font-weight: 700;">2020</span><br>
+	
 	
 	                         <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -40,7 +47,7 @@ permalink: /publications/
                                         2019</span></span></font><br>
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Quantum correlations and quantum-memory-assisted entropic uncertainty relation in two kinds of spin squeezing models",   <a href="https://doi.org/10.1088/1612-202X/ab2cc7" target="_blank">Laser Phys. Lett. 16, 095202 (2020).</a></font></p></li>
+                                        <font size="2">S. Haddadi, M. R. Pourkarimi, A. Akhound, M. Ghominejad, "Quantum correlations and quantum-memory-assisted entropic uncertainty relation in two kinds of spin squeezing models",   <a href="https://doi.org/10.1088/1612-202X/ab2cc7" target="_blank">Laser Phys. Lett. 16, 095202 (2019).</a></font></p></li>
 	                                <li>
                                     <p class="paragraph_style_4" align="justify">				
                                         <font size="2">S. Haddadi, A. Akhound, M. A. Chaman Motlagh, "Efficient entanglement measure for graph states",  <a href="https://doi.org/10.1007/s10773-019-04214-4" target="_blank">Int. J. Theor. Phys. 58, 3406 (2019).</a> </font></p></li>
