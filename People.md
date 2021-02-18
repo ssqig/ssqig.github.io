@@ -23,7 +23,7 @@ permalink: /People/
 
                                 <ul> <li><b><font size="2"><a href="mailto:mrpourkarimy@gmail.com">Mohammad Reza Pourkarimi</a></font></b><font size="2"> (Assistant Professor, Salman Farsi University of Kazerun, Iran)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Assistant Professor, Urmia University of Technology, Iran)</font></li></ul>
-				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (Ph.D., University of Mohaghegh Ardabili, Iran)</font></li></ul>
+				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Position, Sharif University of Technology, Iran)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:mostafa.mansour.fpb@gmail.com">Mostafa Mansour</a></font></b><font size="2"> (Assistant Professor, Université Hassan II de Casablanca, Morocco)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:pprasanta@iiserkol.ac.in">Prasanta K. Panigrahi</a></font></b><font size="2"> (Professor, Indian Institute of Science Education and Research Kolkata, India)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:bikash@bikashsquantum.com">Bikash K. Behera</a></font></b><font size="2"> (Ph.D. student, Indian Institute of Science Education and Research Kolkata, Bikash's Quantum, India)</font></li></ul>
