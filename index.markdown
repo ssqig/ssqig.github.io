@@ -17,7 +17,8 @@ layout: home
 	  </div>
 
 <br>
-<h2>Welcome</h2>
+<p class="paragraph_style_4" align="justify">
+<h2>Welcome</h2></p>
  <p class="paragraph_style_4" align="justify">
 Our research group includes motivated PhD and MSc students who are currently working on interesting topics in the field of quantum information. I, Saeed Haddadi, the founder and CEO of Saeed's Quantum Information Group (SSQIG), welcome you to this quantum information world. Certainly, SSQIG is an independent group and is not affiliated with any institution or university.</p>
 
