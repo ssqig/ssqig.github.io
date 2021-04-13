@@ -11,6 +11,12 @@ permalink: /publications/
 			
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
 			
+			
+			<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haseli, S. Haddadi, M. R. Pourkarimi "Probing the entropic uncertainty bound and quantum correlations in a quantum dot system",  <a href="https://doi.org/10.1088/1555-6611/abe236" target="_blank">Laser Phys. 31, 055203 (2021).</a> </font></p></li>
+	
+			
 			<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2"> M. Mansour, S. Haddadi, "Bipartite entanglement of decohered mixed states generated from maximally entangled cluster states",  <a href="https://doi.org/10.1142/S0217732321500103" target="_blank">Mod. Phys. Lett. A 36, 2150010 (2021).</a> </font></p></li>
