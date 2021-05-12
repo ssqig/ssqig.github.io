@@ -12,6 +12,13 @@ permalink: /publications/
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
 			
 			
+			
+			<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, S. Haseli, M. R. Pourkarimi, F. Mirmasoudi "Analyzing entropic uncertainty bound in two qubits coupled to a spin environment",  <a href="https://doi.org/10.1088/1402-4896/abfcee" target="_blank">Phys. Scr. 96, 075104 (2021).</a> </font></p></li>
+	
+			
+			
 			<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2"> S. Haseli, S. Haddadi, M. R. Pourkarimi, "Probing the entropic uncertainty bound and quantum correlations in a quantum dot system",  <a href="https://doi.org/10.1088/1555-6611/abe236" target="_blank">Laser Phys. 31, 055203 (2021).</a> </font></p></li>
