@@ -12,6 +12,9 @@ permalink: /publications/
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
 			
 			
+			<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, S. Haseli "Multipartite uncertainty relation with quantum memory",  <a href="https://doi.org/10.1038/s41598-021-93044-8" target="_blank">Sci. Rep. 11, 13752 (2021).</a> </font></p></li>
 			
 			<li>
                                     <p class="paragraph_style_4" align="justify">
