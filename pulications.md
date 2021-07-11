@@ -10,6 +10,11 @@ permalink: /publications/
 			
 			
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
+				
+				
+			<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi "Entropic uncertainty relation and quantum coherence under Ising model with Dzyaloshinskii–Moriya interaction",  <a href="https://doi.org/10.1088/1612-202X/ac0fe9" target="_blank">Laser Phys. Lett. 18, 085204 (2021).</a> </font></p></li>
 			
 			
 			<li>
