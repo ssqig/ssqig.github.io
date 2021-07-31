@@ -23,6 +23,7 @@ permalink: /People/
 
                                 <ul> <li><b><font size="2"><a href="mailto:mrpourkarimy@gmail.com">Mohammad Reza Pourkarimi</a></font></b><font size="2"> (Assistant Professor, Salman Farsi University of Kazerun, Iran)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Assistant Professor, Urmia University of Technology, Iran)</font></li></ul>
+		                <ul><li><b><font size="2"><a href="mailto:mghominejad@semnan.ac.ir">Mehrdad Ghominejad</a></font></b><font size="2"> (Associate Professor, Semnan University, Iran)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:youssef.khedif@gmail.com">Youssef Khedif</a></font></b><font size="2"> (Assistant Professor, Université Hassan II Maarif Casablanca, Morocco)</font></li></ul>
 		               <ul><li><b><font size="2"><a href="mailto:m_daoud@hotmail.com">Mohammed Daoud</a></font></b><font size="2"> (Professor, University Ibn Tofail, Morocco; Abdus Salam International Centre for Theoretical Physics, Italy)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Position, Sharif University of Technology, Iran)</font></li></ul>
