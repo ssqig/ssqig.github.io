@@ -11,6 +11,15 @@ permalink: /publications/
 			
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
 				
+			
+				
+			<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, S. Haseli "Relationship between quantum coherence and uncertainty bound in an arbitrary two-qubit X-state",  <a href="https://doi.org/10.1007/s11082-021-03176-4" target="_blank">Opt. Quant. Electron. 53, 529 (2021).</a> </font></p></li>	
+				
+			<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, D. Wang "Tripartite entropic uncertainty in an open system under classical environmental noise",  <a href="https://doi.org/10.1364/JOSAB.431554" target="_blank">J. Opt. Soc. Am. B 38, 2620 (2021).</a> </font></p></li>		
 				
 			<li>
                                     <p class="paragraph_style_4" align="justify">
