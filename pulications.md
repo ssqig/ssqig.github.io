@@ -13,28 +13,28 @@ permalink: /publications/
 				
 			<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> Y. Khedif, S. Haddadi, M. R. Pourkarimi, M. Daoud "Thermal correlations and entropic uncertainty in a two-spin system under DM and KSEA interactions",  <a href="https://doi.org/10.1142/S0217732321502096" target="_blank">Mod. Phys. Lett. A 36, 2150209 (2021).</a> </font></p></li>
+                                        <font size="2"> Y. Khedif, S. Haddadi, M. R. Pourkarimi, M. Daoud, "Thermal correlations and entropic uncertainty in a two-spin system under DM and KSEA interactions",  <a href="https://doi.org/10.1142/S0217732321502096" target="_blank">Mod. Phys. Lett. A 36, 2150209 (2021).</a> </font></p></li>
 				
 			<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, S. Haseli "Relationship between quantum coherence and uncertainty bound in an arbitrary two-qubit X-state",  <a href="https://doi.org/10.1007/s11082-021-03176-4" target="_blank">Opt. Quant. Electron. 53, 529 (2021).</a> </font></p></li>	
+                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, S. Haseli, "Relationship between quantum coherence and uncertainty bound in an arbitrary two-qubit X-state",  <a href="https://doi.org/10.1007/s11082-021-03176-4" target="_blank">Opt. Quant. Electron. 53, 529 (2021).</a> </font></p></li>	
 				
 			<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, D. Wang "Tripartite entropic uncertainty in an open system under classical environmental noise",  <a href="https://doi.org/10.1364/JOSAB.431554" target="_blank">J. Opt. Soc. Am. B 38, 2620 (2021).</a> </font></p></li>		
+                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, D. Wang, "Tripartite entropic uncertainty in an open system under classical environmental noise",  <a href="https://doi.org/10.1364/JOSAB.431554" target="_blank">J. Opt. Soc. Am. B 38, 2620 (2021).</a> </font></p></li>		
 				
 			<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi "Entropic uncertainty relation and quantum coherence under Ising model with Dzyaloshinskii–Moriya interaction",  <a href="https://doi.org/10.1088/1612-202X/ac0fe9" target="_blank">Laser Phys. Lett. 18, 085204 (2021).</a> </font></p></li>
+                                        <font size="2"> S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Entropic uncertainty relation and quantum coherence under Ising model with Dzyaloshinskii–Moriya interaction",  <a href="https://doi.org/10.1088/1612-202X/ac0fe9" target="_blank">Laser Phys. Lett. 18, 085204 (2021).</a> </font></p></li>
 			
 			
 			<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, S. Haseli "Multipartite uncertainty relation with quantum memory",  <a href="https://doi.org/10.1038/s41598-021-93044-8" target="_blank">Sci. Rep. 11, 13752 (2021).</a> </font></p></li>
+                                        <font size="2"> S. Haddadi, M. R. Pourkarimi, S. Haseli, "Multipartite uncertainty relation with quantum memory",  <a href="https://doi.org/10.1038/s41598-021-93044-8" target="_blank">Sci. Rep. 11, 13752 (2021).</a> </font></p></li>
 			
 			<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> S. Haddadi, S. Haseli, M. R. Pourkarimi, F. Mirmasoudi "Analyzing entropic uncertainty bound in two qubits coupled to a spin environment",  <a href="https://doi.org/10.1088/1402-4896/abfcee" target="_blank">Phys. Scr. 96, 075104 (2021).</a> </font></p></li>
+                                        <font size="2"> S. Haddadi, S. Haseli, M. R. Pourkarimi, F. Mirmasoudi, "Analyzing entropic uncertainty bound in two qubits coupled to a spin environment",  <a href="https://doi.org/10.1088/1402-4896/abfcee" target="_blank">Phys. Scr. 96, 075104 (2021).</a> </font></p></li>
 	
 			
 			
