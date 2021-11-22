@@ -11,6 +11,10 @@ permalink: /publications/
 			
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
 				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, M. Ghominejad, A. Akhound, M. R. Pourkarimi, "Suppressing measurement uncertainty in an inhomogeneous spin star system",  <a href="https://doi.org/10.1038/s41598-021-02045-0" target="_blank">Sci. Rep. 11, 22691 (2021).</a> </font></p></li>
+				
 			<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2"> Y. Khedif, S. Haddadi, M. R. Pourkarimi, M. Daoud, "Thermal correlations and entropic uncertainty in a two-spin system under DM and KSEA interactions",  <a href="https://doi.org/10.1142/S0217732321502096" target="_blank">Mod. Phys. Lett. A 36, 2150209 (2021).</a> </font></p></li>
