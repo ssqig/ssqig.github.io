@@ -22,6 +22,7 @@ permalink: /People/
                                 <p align="justify"><b><font size="2">Research fellows:</font></b></p>
 
                                 <ul> <li><b><font size="2"><a href="mailto:mrpourkarimy@gmail.com">Mohammad Reza Pourkarimi</a></font></b><font size="2"> (Assistant Professor, Salman Farsi University of Kazerun, Iran)</font></li></ul>
+		                <ul><li><b><font size="2"><a href="mailto:mingliang0301@163.com">Ming-Liang Hu</a></font></b><font size="2"> (Professor, Xi’an University of Posts and Telecommunications, China)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Assistant Professor, Urmia University of Technology, Iran)</font></li></ul>
 		                <ul><li><b><font size="2"><a href="mailto:dwang@ahu.edu.cn">Dong Wang</a></font></b><font size="2"> (Professor, Anhui University, Hefei, China)</font></li></ul>
 		                <ul><li><b><font size="2"><a href="mailto:mghominejad@semnan.ac.ir">Mehrdad Ghominejad</a></font></b><font size="2"> (Associate Professor, Semnan University, Iran)</font></li></ul>
