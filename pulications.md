@@ -7,7 +7,14 @@ permalink: /publications/
 <section id="links">
 	<div class="container">
 		<ul>
-			
+			<span class="style"><span style="font-weight: 700;">2020</span><br>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haddadi, M. L. Hu, Y. Khedif, H. Dolatkhah, M. R. Pourkarimi, M. Daoud, "Measurement uncertainty and dense coding in a two-qubit system: Combined effects of bosonic reservoir and dipole–dipole interaction",  <a href="https://doi.org/10.1016/j.rinp.2021.105041" target="_blank">Results Phys. 32, 105041 (2022).</a> </font></p></li>
+				
+			<br>
+				
 			
 			<span class="style"><span style="font-weight: 700;">2021</span><br>
 				
