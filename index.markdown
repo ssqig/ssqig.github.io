@@ -37,7 +37,7 @@ Our research group includes motivated PhD students and top researchers who are c
 
 <br><br>
 
-<p align="justify"> We welcome motivated and hard-working students to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at <a href="mailto:saeed@ssqig.com">saeed@ssqig.com</a></p><br>
+<p align="justify"> We welcome motivated and hard-working researchers to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at <a href="mailto:saeed@ssqig.com">saeed@ssqig.com</a></p><br>
 
 
 
