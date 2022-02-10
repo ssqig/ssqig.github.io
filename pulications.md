@@ -8,6 +8,10 @@ permalink: /publications/
 	<div class="container">
 		<ul>
 			<span class="style"><span style="font-weight: 700;">2022</span><br>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> A. U. Rahman, S. Haddadi, M. R. Pourkarimi, M. Ghominejad, "Fidelity of quantum states in a correlated dephasing channel",  <a href="https://doi.org/10.1088/1612-202X/ac5040" target="_blank">Laser Phys. Lett. 19, 035204 (2022).</a> </font></p></li>
 				<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2"> S. Haddadi, M. R. Pourkarimi, Y. Khedif, M. Daoud, "Tripartite measurement uncertainty in a Heisenberg XXZ model",  <a href="https://doi.org/10.1140/epjp/s13360-021-02305-y" target="_blank">Eur. Phys. J. Plus 137, 66 (2022).</a> </font></p></li>
