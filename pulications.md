@@ -8,6 +8,9 @@ permalink: /publications/
 	<div class="container">
 		<ul>
 			<span class="style"><span style="font-weight: 700;">2022</span><br>
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> M. Hashem, A. B. A. Mohamed, S. Haddadi, Y. Khedif, M. R. Pourkarimi, M. Daoud, "Bell nonlocality, entanglement, and entropic uncertainty in a Heisenberg model under intrinsic decoherence: DM and KSEA interplay effects",  <a href="https://doi.org/10.1007/s00340-022-07802-1" target="_blank">Appl. Phys. B 128, 87 (2022).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
