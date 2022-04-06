@@ -31,6 +31,9 @@ permalink: /People/
 		               <ul><li><b><font size="2"><a href="mailto:h.dolatkhah@gmail.com">Hazhir Dolatkhah</a></font></b><font size="2"> (PostDoc Position, Slovak Academy of Sciences, Slovakia)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Position, Sharif University of Technology, Iran)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:mostafa.mansour.fpb@gmail.com">Mostafa Mansour</a></font></b><font size="2"> (Associate Professor, Université Hassan II de Casablanca, Morocco)</font></li></ul>
+		                <ul><li><b><font size="2"><a href="mailto:attazaib5711@gmail.com">Atta Ur Rahman</a></font></b><font size="2"> (Ph.D., Wuhan University, China)</font></li></ul>
+		                <ul><li><b><font size="2"><a href="mailto:fadwabenabdallah4@gmail.com">Fadwa Benabdallah</a></font></b><font size="2"> (Ph.D., Mohammed V University in Rabat, Morocco)</font></li></ul>
+		                <ul><li><b><font size="2"><a href="mailto:abdelbastm@aun.edu.eg">Abdel-Baset A. Mohamed</a></font></b><font size="2"> (Professor, Assiut University,  Egypt)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:pprasanta@iiserkol.ac.in">Prasanta K. Panigrahi</a></font></b><font size="2"> (Professor, Indian Institute of Science Education and Research Kolkata, India)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:bikash@bikashsquantum.com">Bikash K. Behera</a></font></b><font size="2"> (Ph.D., Indian Institute of Science Education and Research Kolkata, Bikash's Quantum, India)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:akabhijeet200396@gmail.com">Abhijeet Kumar</a></font></b><font size="2"> (M.Sc., Central University of Jharkhand, India)</font></li>
