@@ -10,7 +10,7 @@ permalink: /publications/
 			<span class="style"><span style="font-weight: 700;">2022</span><br>
 				<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">  A. U. Rahman, S. Haddadi, M. R. Pourkarimi, "Tripartite Quantum Correlations under Power-Law and Random Telegraph Noises: Collective Effects of Markovian and Non-Markovian Classical Fields",  <a href="https://doi.org/10.1002/andp.202100584" target="_blank">Ann. Phys. (Berlin), 2100584 (2022).</a> </font></p></li>
+                                        <font size="2">  A. U. Rahman, S. Haddadi, M. R. Pourkarimi, "Tripartite quantum correlations under power-law and random telegraph noises: Collective effects of markovian and non-Markovian classical fields",  <a href="https://doi.org/10.1002/andp.202100584" target="_blank">Ann. Phys. (Berlin), 2100584 (2022).</a> </font></p></li>
 				<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2"> M. Hashem, A. B. A. Mohamed, S. Haddadi, Y. Khedif, M. R. Pourkarimi, M. Daoud, "Bell nonlocality, entanglement, and entropic uncertainty in a Heisenberg model under intrinsic decoherence: DM and KSEA interplay effects",  <a href="https://doi.org/10.1007/s00340-022-07802-1" target="_blank">Appl. Phys. B 128, 87 (2022).</a> </font></p></li>
