@@ -8,6 +8,11 @@ permalink: /publications/
 	<div class="container">
 		<ul>
 			<span class="style"><span style="font-weight: 700;">2022</span><br>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  F. Benabdallah, S. Haddadi, H. Arian Zad, M. R. Pourkarimi, M. Daoud, N. Ananikian, "Pairwise quantum criteria and teleportation in a spin square complex",  <a href="https://doi.org/10.1038/s41598-022-10248-2" target="_blank">Sci. Rep. 12, 6406 (2022).</a> </font></p></li>
+				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">  A. U. Rahman, S. Haddadi, M. R. Pourkarimi, "Tripartite quantum correlations under power-law and random telegraph noises: Collective effects of markovian and non-Markovian classical fields",  <a href="https://doi.org/10.1002/andp.202100584" target="_blank">Ann. Phys. (Berlin), 2100584 (2022).</a> </font></p></li>
