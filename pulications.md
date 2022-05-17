@@ -11,7 +11,7 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">  M. R. Pourkarimi, S. Haseli, S. Haddadi, M. Hadipour, "Scrutinizing entropic uncertainty and quantum discord in an open system under quantum critical environment",  <a href="https://doi.org/10.1088/1612-202X/ac6c2f" target="_blank">Laser Phys. Lett. \textbf{19}, 065201 (2022).</a> </font></p></li>
+                                        <font size="2">  M. R. Pourkarimi, S. Haseli, S. Haddadi, M. Hadipour, "Scrutinizing entropic uncertainty and quantum discord in an open system under quantum critical environment",  <a href="https://doi.org/10.1088/1612-202X/ac6c2f" target="_blank">Laser Phys. Lett. 19, 065201 (2022).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
