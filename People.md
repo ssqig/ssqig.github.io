@@ -36,8 +36,8 @@ permalink: /People/
 		<ul><li><b><font size="2"><a href="mailto:mostafa.mansour.fpb@gmail.com">Mostafa Mansour</a></font></b><font size="2"> (Associate Professor, Université Hassan II de Casablanca, Morocco)</font></li></ul>
 		  <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Assistant Professor, Urmia University of Technology, Iran)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:youssef.khedif@gmail.com">Youssef Khedif</a></font></b><font size="2"> (Assistant Professor, Université Hassan II Maarif Casablanca, Morocco)</font></li></ul>
-		               <ul><li><b><font size="2"><a href="mailto:h.dolatkhah@gmail.com">Hazhir Dolatkhah</a></font></b><font size="2"> (PostDoc Position, Slovak Academy of Sciences, Slovakia)</font></li></ul>
-				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Position, Sharif University of Technology, Iran)</font></li></ul>
+		               <ul><li><b><font size="2"><a href="mailto:h.dolatkhah@gmail.com">Hazhir Dolatkhah</a></font></b><font size="2"> (PostDoc Researcher, Slovak Academy of Sciences, Slovakia)</font></li></ul>
+				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Researcher, Sharif University of Technology, Iran)</font></li></ul>
                               
 		                <ul><li><b><font size="2"><a href="mailto:attazaib5711@gmail.com">Atta Ur Rahman</a></font></b><font size="2"> (Ph.D., Wuhan University, China)</font></li></ul>
 		                <ul><li><b><font size="2"><a href="mailto:arianzad.hamid@yerphi.am">Hamid Arian Zad</a></font></b><font size="2"> (Ph.D., A.I. Alikhanyan National Science Laboratory, Armenia)</font></li></ul>
