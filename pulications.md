@@ -11,7 +11,7 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">  A. B. A. Mohamed, A. N. Khedr, S. Haddadi, A. U. Rahman, M. Tammam, M. R. Pourkarimi, "Intrinsic decoherence effects on nonclassical correlations in a symmetric spin–orbit model",  <a href="https://doi.org/10.1016/j.rinp.2022.105693" target="_blank">Results Phys., 105693 (2022).</a> </font></p></li>
+                                        <font size="2">  A. B. A. Mohamed, A. N. Khedr, S. Haddadi, A. U. Rahman, M. Tammam, M. R. Pourkarimi, "Intrinsic decoherence effects on nonclassical correlations in a symmetric spin–orbit model",  <a href="https://doi.org/10.1016/j.rinp.2022.105693" target="_blank">Results Phys. 39, 105693 (2022).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
