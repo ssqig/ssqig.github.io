@@ -9,6 +9,10 @@ permalink: /publications/
 		<ul>
 			<span class="style"><span style="font-weight: 700;">2022</span><br>
 				
+				li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  F. Benabdallah, A. U. Rahman, S. Haddadi, M. Daoud, "Long-time protection of thermal correlations in a hybrid-spin system under random telegraph noise",  <a href="https://doi.org/10.1007/s11128-022-03565-y" target="_blank">Phys. Rev. E 106, 034122 (2022).</a> </font></p></li>
+				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">  Y. Khedif,  S. Haddadi, M. Daoud, H. Dolatkhah, M. R. Pourkarimi, "Non-classical correlations in a Heisenberg spin model with Heitler–London approach",  <a href="https://doi.org/10.1007/s11128-022-03565-y" target="_blank">Quantum Inf. Process. 21, 235 (2022).</a> </font></p></li>
