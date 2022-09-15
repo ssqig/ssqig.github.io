@@ -11,7 +11,7 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">  F. Benabdallah, A. U. Rahman, S. Haddadi, M. Daoud, "Long-time protection of thermal correlations in a hybrid-spin system under random telegraph noise",  <a href="https://doi.org/10.1007/s11128-022-03565-y" target="_blank">Phys. Rev. E 106, 034122 (2022).</a> </font></p></li>
+                                        <font size="2">  F. Benabdallah, A. U. Rahman, S. Haddadi, M. Daoud, "Long-time protection of thermal correlations in a hybrid-spin system under random telegraph noise",  <a href="https://doi.org/10.1103/PhysRevE.106.034122" target="_blank">Phys. Rev. E 106, 034122 (2022).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
