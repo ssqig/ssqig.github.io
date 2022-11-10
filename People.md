@@ -35,6 +35,7 @@ permalink: /People/
 		  <ul><li><b><font size="2"><a href="mailto:mghominejad@semnan.ac.ir">Mehrdad Ghominejad</a></font></b><font size="2"> (Associate Professor, Semnan University, Iran)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:mostafa.mansour.fpb@gmail.com">Mostafa Mansour</a></font></b><font size="2"> (Associate Professor, Université Hassan II de Casablanca, Morocco)</font></li></ul>
 		  <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Associate Professor, Urmia University of Technology, Iran)</font></li></ul>
+		<ul><li><b><font size="2"><a href="mailto:arif@uom.edu.pk ">Arif Ullah</a></font></b><font size="2"> (Associate Professor, University of Malakand, Pakistan)</font></li></ul>
 		 <ul><li><b><font size="2"><a href="mailto:aczerwin@umk.pl">Artur Czerwinski</a></font></b><font size="2"> (Assistant Professor, Nicolaus Copernicus University, Poland)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:youssef.khedif@gmail.com">Youssef Khedif</a></font></b><font size="2"> (Assistant Professor, Université Hassan II Maarif Casablanca, Morocco)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:Javed@uom.edu.pk">Muhammad Javed</a></font></b><font size="2"> (Assistant Professor, University of Malakand, Pakistan)</font></li></ul>
@@ -46,6 +47,7 @@ permalink: /People/
 		                 
 		                <ul><li><b><font size="2"><a href="mailto:fadwabenabdallah4@gmail.com">Fadwa Benabdallah</a></font></b><font size="2"> (Ph.D., Mohammed V University in Rabat, Morocco)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:kenfacklionel300@gmail.com">Lionel Tenemeza Kenfack</a></font></b><font size="2"> (Ph.D., University of Dschang, Cameroon)</font></li></ul>
+		<ul><li><b><font size="2"><a href="mailto:a.n.khedr@azhar.edu.eg">Ahmad N. Khedr</a></font></b><font size="2"> (Ph.D., Al-Azhar University, Egypt)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:bikash@bikashsquantum.com">Bikash K. Behera</a></font></b><font size="2"> (Ph.D., Indian Institute of Science Education and Research Kolkata, Bikash's Quantum, India)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:akabhijeet200396@gmail.com">Abhijeet Kumar</a></font></b><font size="2"> (M.Sc., Central University of Jharkhand, India)</font></li>
 				
