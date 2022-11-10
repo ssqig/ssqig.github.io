@@ -27,7 +27,7 @@ permalink: /People/
 		<ul><li><b><font size="2"><a href="mailto:m_daoud@hotmail.com">Mohammed Daoud</a></font></b><font size="2"> (Professor, University Ibn Tofail, Morocco; Abdus Salam International Centre for Theoretical Physics, Italy)</font></li></ul>
 		 <ul><li><b><font size="2"><a href="mailto:ananik@yerphi.am">Nerses Ananikian</a></font></b><font size="2"> (Professor, A.I. Alikhanyan National Science Laboratory, Armenia)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:abdelbastm@aun.edu.eg">Abdel-Baset A. Mohamed</a></font></b><font size="2"> (Professor, Assiut University,  Egypt)</font></li></ul>
-		<ul><li><b><font size="2"><a href="mailto:mailto:mario.ziman@savba.sk">Mario Ziman</a></font></b><font size="2"> (Professor, Slovak Academy of Sciences, Bratislava)</font></li></ul>
+		<ul><li><b><font size="2"><a href="mailto:mailto:mario.ziman@savba.sk">Mario Ziman</a></font></b><font size="2"> (Professor, Slovak Academy of Sciences, Slovakia)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:pprasanta@iiserkol.ac.in">Prasanta K. Panigrahi</a></font></b><font size="2"> (Professor, Indian Institute of Science Education and Research Kolkata, India)</font></li></ul>
   
 		                
@@ -37,6 +37,7 @@ permalink: /People/
 		  <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Associate Professor, Urmia University of Technology, Iran)</font></li></ul>
 		 <ul><li><b><font size="2"><a href="mailto:aczerwin@umk.pl">Artur Czerwinski</a></font></b><font size="2"> (Assistant Professor, Nicolaus Copernicus University, Poland)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:youssef.khedif@gmail.com">Youssef Khedif</a></font></b><font size="2"> (Assistant Professor, Université Hassan II Maarif Casablanca, Morocco)</font></li></ul>
+		<ul><li><b><font size="2"><a href="mailto:Javed@uom.edu.pk">Muhammad Javed</a></font></b><font size="2"> (Assistant Professor, University of Malakand, Pakistan)</font></li></ul>
 		               <ul><li><b><font size="2"><a href="mailto:h.dolatkhah@gmail.com">Hazhir Dolatkhah</a></font></b><font size="2"> (PostDoc Researcher, Slovak Academy of Sciences, Slovakia)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Researcher, Sharif University of Technology, Iran)</font></li></ul>
                               
