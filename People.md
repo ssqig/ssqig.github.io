@@ -13,7 +13,7 @@ permalink: /People/
 
                                 <p align="justify"><b><font size="2">Principal investigator:</font></b></p>
 
-                                <ul> <li><b><font size="2"><a href="mailto:saeed@ssqig.com">Saeed Haddadi</a></font></b><font size="2"> (Ph.D., Founder and CEO of SSQIG)</font></li>
+                                <ul> <li><b><font size="2"><a href="mailto:saeed@ssqig.com">Saeed Haddadi</a></font></b><font size="2"> (Ph.D. in Physics, Founder and CEO of SSQIG)</font></li>
                                 
 
                                 </ul>
@@ -34,15 +34,17 @@ permalink: /People/
 		   <ul> <li><b><font size="2"><a href="mailto:mrpourkarimy@gmail.com">Mohammad Reza Pourkarimi</a></font></b><font size="2"> (Associate Professor, Salman Farsi University of Kazerun, Iran)</font></li></ul>
 		  <ul><li><b><font size="2"><a href="mailto:mghominejad@semnan.ac.ir">Mehrdad Ghominejad</a></font></b><font size="2"> (Associate Professor, Semnan University, Iran)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:mostafa.mansour.fpb@gmail.com">Mostafa Mansour</a></font></b><font size="2"> (Associate Professor, Université Hassan II de Casablanca, Morocco)</font></li></ul>
-		  <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Assistant Professor, Urmia University of Technology, Iran)</font></li></ul>
+		  <ul><li><b><font size="2"><a href="mailto:soroush.haseli@uut.ac.ir">Soroush Haseli</a></font></b><font size="2"> (Associate Professor, Urmia University of Technology, Iran)</font></li></ul>
+		 <ul><li><b><font size="2"><a href="mailto:aczerwin@umk.pl">Artur Czerwinski</a></font></b><font size="2"> (Assistant Professor, Nicolaus Copernicus University, Poland)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:youssef.khedif@gmail.com">Youssef Khedif</a></font></b><font size="2"> (Assistant Professor, Université Hassan II Maarif Casablanca, Morocco)</font></li></ul>
 		               <ul><li><b><font size="2"><a href="mailto:h.dolatkhah@gmail.com">Hazhir Dolatkhah</a></font></b><font size="2"> (PostDoc Researcher, Slovak Academy of Sciences, Slovakia)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (PostDoc Researcher, Sharif University of Technology, Iran)</font></li></ul>
                               
-		                <ul><li><b><font size="2"><a href="mailto:attazaib5711@gmail.com">Atta Ur Rahman</a></font></b><font size="2"> (Ph.D., Wuhan University, China)</font></li></ul>
+		                <ul><li><b><font size="2"><a href="mailto:attazaib5711@gmail.com">Atta Ur Rahman</a></font></b><font size="2"> (Ph.D., University of Chinese Academy of Science, China)</font></li></ul>
 		                <ul><li><b><font size="2"><a href="mailto:arianzad.hamid@yerphi.am">Hamid Arian Zad</a></font></b><font size="2"> (Ph.D., A.I. Alikhanyan National Science Laboratory, Armenia)</font></li></ul>
 		                 
 		                <ul><li><b><font size="2"><a href="mailto:fadwabenabdallah4@gmail.com">Fadwa Benabdallah</a></font></b><font size="2"> (Ph.D., Mohammed V University in Rabat, Morocco)</font></li></ul>
+		<ul><li><b><font size="2"><a href="mailto:kenfacklionel300@gmail.com">Lionel Tenemeza Kenfack</a></font></b><font size="2"> (Ph.D., University of Dschang, Cameroon)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:bikash@bikashsquantum.com">Bikash K. Behera</a></font></b><font size="2"> (Ph.D., Indian Institute of Science Education and Research Kolkata, Bikash's Quantum, India)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:akabhijeet200396@gmail.com">Abhijeet Kumar</a></font></b><font size="2"> (M.Sc., Central University of Jharkhand, India)</font></li>
 				
