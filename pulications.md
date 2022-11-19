@@ -11,11 +11,17 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">  A. U. Rahman, S. Haddadi, M. Javed, L. T. Kenfack, A. Ullah "Entanglement witness and linear entropy in an open system influenced by FG noise",  <a href="https://doi.org/10.1007/s11128-022-03720-5" target="_blank">Quantum Inf. Process. 21, 368 (2022).</a> </font></p></li>
+                                        <font size="2">  M. Hadipour, S. Haseli, H. Dolatkhah, S. Haddadi, A. Czerwinski, 
+ "Quantum speed limit for a moving qubit inside a leaky cavity",  <a href="https://doi.org/10.3390/photonics9110875" target="_blank">
+						Photonics 9, 875 (2022).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">  H. Dolatkhah, S. Haddadi, S. Haseli, M. R. Pourkarimi, M. Ziman "Tripartite quantum-memory-assisted entropic uncertainty relations for multiple measurements",  <a href="https://doi.org/10.1140/epjp/s13360-022-03374-3" target="_blank">Eur. Phys. J. Plus 137, 1163 (2022).</a> </font></p></li>
+                                        <font size="2">  A. U. Rahman, S. Haddadi, M. Javed, L. T. Kenfack, A. Ullah, "Entanglement witness and linear entropy in an open system influenced by FG noise",  <a href="https://doi.org/10.1007/s11128-022-03720-5" target="_blank">Quantum Inf. Process. 21, 368 (2022).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  H. Dolatkhah, S. Haddadi, S. Haseli, M. R. Pourkarimi, M. Ziman, "Tripartite quantum-memory-assisted entropic uncertainty relations for multiple measurements",  <a href="https://doi.org/10.1140/epjp/s13360-022-03374-3" target="_blank">Eur. Phys. J. Plus 137, 1163 (2022).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
