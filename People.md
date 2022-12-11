@@ -47,7 +47,7 @@ permalink: /People/
 		<ul><li><b><font size="2"><a href="mailto:kenfacklionel300@gmail.com">Lionel Tenemeza Kenfack</a></font></b><font size="2"> (Ph.D., University of Dschang, Cameroon)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:a.n.khedr@azhar.edu.eg">Ahmad N. Khedr</a></font></b><font size="2"> (Ph.D., Al-Azhar University, Egypt)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:bikash@bikashsquantum.com">Bikash K. Behera</a></font></b><font size="2"> (Ph.D., Indian Institute of Science Education and Research Kolkata, Bikash's Quantum, India)</font></li></ul>
-	<ul><li><b><font size="2"><a href="mailto:">Mostafa Hashem</a></font></b><font size="2"> (Lecturer, Assiut University,  Egypt)</font></li></ul>	
+	<ul><li><b><font size="2"><a href="mailto:mostafaasd@aun.edu.eg">Mostafa Hashem</a></font></b><font size="2"> (Lecturer, Assiut University,  Egypt)</font></li></ul>	
 		
  <ul><li><b><font size="2"><a href="mailto:attazaib5711@gmail.com">Atta Ur Rahman</a></font></b><font size="2"> (Ph.D. student, University of Chinese Academy of Science, China)</font></li></ul>		
 		<ul><li><b><font size="2"><a href="mailto:fadwabenabdallah4@gmail.com">Fadwa Benabdallah</a></font></b><font size="2"> (Ph.D. student, Mohammed V University in Rabat, Morocco)</font></li></ul>
