@@ -35,7 +35,7 @@ Our research group includes motivated PhD students and top researchers who are c
 	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Memory</font></p></li>					
 </ul>
 
-<br><br>
+<br>
 
 <p align="justify"> We welcome motivated and hard-working researchers to join our group. So if you feel you are one of them, please send an email to Saeed Haddadi at <a href="mailto:saeed@ssqig.com">saeed@ssqig.com</a></p><br>
 
