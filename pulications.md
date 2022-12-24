@@ -7,6 +7,17 @@ permalink: /publications/
 <section id="links">
 	<div class="container">
 		<ul>
+			
+			<span class="style"><span style="font-weight: 700;">2023</span><br>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  N. Zidan, A. U. Rahman, S. Haddadi, A. Czerwinski, S. Haseli, 
+ "Local quantum uncertainty and quantum interferometric power in an anisotropic two-qubit system",  <a href="https://doi.org/10.3390/universe9010005" target="_blank">
+						Universe 9, 5 (2023).</a> </font></p></li>
+			
+			
+			
 			<span class="style"><span style="font-weight: 700;">2022</span><br>
 				
 				<li>
