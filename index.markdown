@@ -32,7 +32,7 @@ Our research group includes motivated PhD students and top researchers who are c
 	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Teleportation</font></p></li>
 	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Correlations</font></p></li>
 	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Channels</font></p></li>
-	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Memory</font></p></li>					
+	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Coherence</font></p></li>					
 </ul>
 
 <br><br>
