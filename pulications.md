@@ -12,6 +12,12 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  A. U. Rahman, H. Ali, S. Haddadi, S. M. Zangi, 
+ "Generating non-classical correlations in two-level atoms",  <a href="https://doi.org/10.1016/j.aej.2022.12.054" target="_blank">
+						Alex. Eng. J. 67, 425 (2023).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">  N. Zidan, A. U. Rahman, S. Haddadi, A. Czerwinski, S. Haseli, 
  "Local quantum uncertainty and quantum interferometric power in an anisotropic two-qubit system",  <a href="https://doi.org/10.3390/universe9010005" target="_blank">
 						Universe 9, 5 (2023).</a> </font></p></li>
