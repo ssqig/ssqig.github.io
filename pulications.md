@@ -12,6 +12,12 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  N. Zidan, A. U. Rahman, S. Haddadi, 
+ "Quantum teleportation in a two-superconducting qubit system under dephasing noisy channel: role of Josephson and mutual coupling energies",  <a href="https://doi.org/10.1088/1612-202X/acb043" target="_blank">
+						Laser Phys. Lett. 20, 025204 (2023).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">  A. U. Rahman, H. Ali, S. Haddadi, S. M. Zangi, 
  "Generating non-classical correlations in two-level atoms",  <a href="https://doi.org/10.1016/j.aej.2022.12.054" target="_blank">
 						Alex. Eng. J. 67, 425 (2023).</a> </font></p></li>
