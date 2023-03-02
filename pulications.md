@@ -12,6 +12,12 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. U. Rahman, M. Y. Abd-Rabbou, S. Haddadi, H. Ali, 
+ "Two-qubit steerability, nonlocality, and average steered coherence under classical dephasing channels",  <a href="https://doi.org/10.1002/andp.202200523" target="_blank">
+						Ann. Phys. (Berlin) 535, 2200523 (2023).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">  N. Zidan, A. U. Rahman, S. Haddadi, 
  "Quantum teleportation in a two-superconducting qubit system under dephasing noisy channel: role of Josephson and mutual coupling energies",  <a href="https://doi.org/10.1088/1612-202X/acb043" target="_blank">
 						Laser Phys. Lett. 20, 025204 (2023).</a> </font></p></li>
