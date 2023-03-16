@@ -10,6 +10,16 @@ permalink: /publications/
 			
 			<span class="style"><span style="font-weight: 700;">2023</span><br>
 				
+				
+				
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   S. Haddadi, M. Hadipour, S. Haseli, A. U. Rahman, A. Czerwinski, 
+ "Quantum advantages of teleportation and dense coding protocols in an open system",  <a href="https://doi.org/10.3390/math11061407" target="_blank">
+						Mathematics 11, 1407 (2023).</a> </font></p></li>
+				
+				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   A. U. Rahman, M. Y. Abd-Rabbou, S. Haddadi, H. Ali, 
