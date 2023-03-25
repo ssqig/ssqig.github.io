@@ -205,7 +205,7 @@ permalink: /publications/
 					
 							                                <li>
                                     <p class="paragraph_style_4" align="justify">				
-                                        <font size="2">S. Haddadi, A. Akhound, "Thermal entanglement properties in two qubits one-axis spin squeezing model with an external magnetic field,  <a href="https://doi.org/10.1007/s10773-018-3941-x" target="_blank">Int. J. Theor. Phys. 58, 399 (2019).</a></font></p></li>					
+                                        <font size="2">S. Haddadi, A. Akhound, "Thermal entanglement properties in two qubits one-axis spin squeezing model with an external magnetic field",  <a href="https://doi.org/10.1007/s10773-018-3941-x" target="_blank">Int. J. Theor. Phys. 58, 399 (2019).</a></font></p></li>					
 
 <br>
 
