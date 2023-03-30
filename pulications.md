@@ -14,7 +14,7 @@ permalink: /publications/
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   Y. Shahri, M. Hadipour, S. Haddadi,  H. Dolatkhah, S. Haseli, 
  "Quantum speed limit of Jaynes-Cummings model with detuning for arbitrary initial states",  <a href="https://doi.org/10.1016/j.physleta.2023.128783" target="_blank">
-						Phys. Lett. A (In Press), 128783 (2023).</a> </font></p></li>
+						Phys. Lett. A 470, 128783 (2023).</a> </font></p></li>
 				
 				
 				<li>
