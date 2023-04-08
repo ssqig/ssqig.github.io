@@ -19,7 +19,7 @@ permalink: /People/
                                 </ul>
                                 <br><br>
 
-                                <p align="justify"><b><font size="2">Research colleagues:</font></b></p>
+                                <p align="justify"><b><font size="2">Research Collaborators:</font></b></p>
 
                                 
 		 <ul><li><b><font size="2"><a href="mailto:mingliang0301@163.com">Ming-Liang Hu</a></font></b><font size="2"> (Professor, Xi’an University of Posts and Telecommunications, China)</font></li></ul>
