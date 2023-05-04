@@ -12,6 +12,11 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   M. A. Yurischev, S. Haddadi,  "Local quantum Fisher information and local quantum uncertainty for general X states",  <a href="https://doi.org/10.1016/j.physleta.2023.128868" target="_blank">
+						Phys. Lett. A 475, 128868 (2023).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   E. I. Kuznetsova,  M. A. Yurischev, S. Haddadi,  "Quantum Otto heat engines on XYZ spin working medium with DM and KSEA interactions: operating modes and efficiency at maximal work output",  <a href="https://doi.org/10.1007/s11128-023-03944-z" target="_blank">
 						Quantum Inf. Process. 22, 192 (2023).</a> </font></p></li>
 				
