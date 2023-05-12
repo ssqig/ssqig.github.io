@@ -13,7 +13,7 @@ permalink: /publications/
 				<li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. A. Yurischev, S. Haddadi,  "Local quantum Fisher information and local quantum uncertainty for general X states",  <a href="https://doi.org/10.1016/j.physleta.2023.128868" target="_blank">
-						Phys. Lett. A 475, 128868 (2023).</a> </font></p></li>
+						Phys. Lett. A 476, 128868 (2023).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
