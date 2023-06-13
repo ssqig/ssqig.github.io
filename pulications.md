@@ -12,6 +12,11 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. Gholizadeh, M. Hadipour, S. Haseli, S. Haddadi, H. Dolatkhah,  "Quantum dynamical speedup for correlated initial states",  <a href="https://doi.org/10.1088/1572-9494/acdce8" target="_blank">
+						Commun. Theor. Phys. 75 (2023).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. A. Yurischev, S. Haddadi,  "Local quantum Fisher information and local quantum uncertainty for general X states",  <a href="https://doi.org/10.1016/j.physleta.2023.128868" target="_blank">
 						Phys. Lett. A 476, 128868 (2023).</a> </font></p></li>
 				
