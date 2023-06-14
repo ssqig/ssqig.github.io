@@ -12,6 +12,11 @@ permalink: /publications/
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   F. Benabdallah, K. El Anouz, A. U. Rahman, M. Daoud, A. El Allati, S. Haddadi,  "Witnessing quantum correlations in a hybrid qubit-qutrit system under intrinsic decoherence",  <a href="https://doi.org/10.1002/prop.202300032" target="_blank">
+						Fortschr. Phys. 72, 2300032 (2023).</a> </font></p></li>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   A. Gholizadeh, M. Hadipour, S. Haseli, S. Haddadi, H. Dolatkhah,  "Quantum dynamical speedup for correlated initial states",  <a href="https://doi.org/10.1088/1572-9494/acdce8" target="_blank">
 						Commun. Theor. Phys. 75 (2023).</a> </font></p></li>
 				
