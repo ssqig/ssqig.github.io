@@ -36,6 +36,7 @@ permalink: /People/
 		<ul><li><b><font size="2"><a href="mailto:arif@uom.edu.pk ">Arif Ullah</a></font></b><font size="2"> (Associate Professor, University of Malakand, Pakistan)</font></li></ul>
 		 <ul><li><b><font size="2"><a href="mailto:aczerwin@umk.pl">Artur Czerwinski</a></font></b><font size="2"> (Assistant Professor, Nicolaus Copernicus University, Poland)</font></li></ul>
                                 <ul><li><b><font size="2"><a href="mailto:youssef.khedif@gmail.com">Youssef Khedif</a></font></b><font size="2"> (Assistant Professor, Université Hassan II Maarif Casablanca, Morocco)</font></li></ul>
+				<ul><li><b><font size="2"><a href="mailto:yamanuom@gmail.com">Hazrat Ali</a></font></b><font size="2"> (Assistant Professor, Abbottabad University of Science and Technology, Pakistan)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:Javed@uom.edu.pk">Muhammad Javed</a></font></b><font size="2"> (Assistant Professor, University of Malakand, Pakistan)</font></li></ul>
 		        				<ul><li><b><font size="2"><a href="mailto:fmirmasoudi@uma.ac.ir">Forouzan Mirmasoudi</a></font></b><font size="2"> (Ph.D., University of Mohaghegh Ardabili, Iran)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:machaman2000@yahoo.com ">Mohammad Ali Chaman Motlagh</a></font></b><font size="2"> (Ph.D., PNU, Iran)</font></li></ul>
