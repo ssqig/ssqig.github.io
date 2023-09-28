@@ -12,6 +12,11 @@ permalink: /publications/
 
    <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   H. Rahman, M. Ahmad, U. Ullah, H. Bibi, H. Ali, S. Haddadi,  "Control over magneto-optical plasmon rotation with Doppler broadening and cross-Kerr non-linearity",  <a href="https://doi.org/10.1016/j.rinp.2023.107024" target="_blank">
+						Results Phys., 107024 (2023).</a> </font></p></li>
+
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. Y. Abd-Rabbou, A. U. Rahman, M. A. Yurischev, S. Haddadi,  "Comparative study of quantum Otto and Carnot engines powered by a spin working substance",  <a href="https://doi.org/10.1103/PhysRevE.108.034106" target="_blank">
 						Phys. Rev. E 108, 034106 (2023).</a> </font></p></li>
 				
