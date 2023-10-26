@@ -12,7 +12,7 @@ permalink: /publications/
 
    <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">   M. R. Pourkarimi, S. Haddadi, M. Nashaat, K. V. Kulikov Yu. M. Shukrinov,  "Thermal local quantum uncertainty in a two-qubit-superconducting system under decoherence",  <a href="https://doi.org/10.1016/j.aej.2023.10.035" target="_blank">
+                                        <font size="2">   M. R. Pourkarimi, S. Haddadi, M. Nashaat, K. V. Kulikov, Yu. M. Shukrinov,  "Thermal local quantum uncertainty in a two-qubit-superconducting system under decoherence",  <a href="https://doi.org/10.1016/j.aej.2023.10.035" target="_blank">
 						Alex. Eng. J. 83, 27 (2023).</a> </font></p></li>
 
    <li>
