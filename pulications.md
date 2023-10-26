@@ -12,6 +12,11 @@ permalink: /publications/
 
    <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   M. R. Pourkarimi, S. Haddadi, M. Nashaat, K. V. Kulikov Yu. M. Shukrinov,  "Thermal local quantum uncertainty in a two-qubit-superconducting system under decoherence",  <a href="https://doi.org/10.1016/j.aej.2023.10.035" target="_blank">
+						Alex. Eng. J. 83, 27 (2023).</a> </font></p></li>
+
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   H. Rahman, M. Ahmad, U. Ullah, H. Bibi, H. Ali, S. Haddadi,  "Control over magneto-optical plasmon rotation with Doppler broadening and cross-Kerr non-linearity",  <a href="https://doi.org/10.1016/j.rinp.2023.107024" target="_blank">
 						Results Phys. 53, 107024 (2023).</a> </font></p></li>
 
