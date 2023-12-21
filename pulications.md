@@ -7,6 +7,16 @@ permalink: /publications/
 <section id="links">
 	<div class="container">
 		<ul>
+
+
+ 
+			<span class="style"><span style="font-weight: 700;">2024</span><br>
+				
+				<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">  Umar Hayat, Iftikhar Ahmad, Hazrat Ali, Rafi Ud Din, Saeed Haddadi, 
+ "Enhanced negative refraction in one- and two-dimensional chiral atomic lattices",  <a href="https://doi.org/10.1016/j.rinp.2023.107277" target="_blank">
+						Results Phys. 56, 107277 (2024).</a> </font></p></li>
 			
 			<span class="style"><span style="font-weight: 700;">2023</span><br>
 
