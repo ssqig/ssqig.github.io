@@ -11,6 +11,11 @@ permalink: /publications/
 
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
+
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   S. Haddadi,  M. A. Yurischev, M. Y. Abd-Rabbou, M. Azizi, M. R. Pourkarimi, M. Ghominejad,  "Quantumness near a Schwarzschild black hole",  <a href="https://doi.org/10.1140/epjc/s10052-024-12393-6" target="_blank">
+						Eur. Phys. J. C 84, 42 (2024).</a> </font></p></li>
 				
 				<li>
                                     <p class="paragraph_style_4" align="justify">
