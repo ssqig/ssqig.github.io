@@ -14,7 +14,7 @@ permalink: /publications/
     <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   S. Haddadi,  M. Ghominejad, A. Czerwinski,  "Quantum dense coding with gravitational cat states",  <a href="https://doi.org/10.1088/1572-9494/ad23da" target="_blank">
-						Commun. Theor. Phys. 76, (2024).</a> </font></p></li>
+						Commun. Theor. Phys. 76, 035101 (2024).</a> </font></p></li>
 
    <li>
                                     <p class="paragraph_style_4" align="justify">
