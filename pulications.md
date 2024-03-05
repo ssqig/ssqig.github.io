@@ -13,6 +13,10 @@ permalink: /publications/
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
     <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A.-S. F. Obada, M. Y. Abd-Rabbou, S. Haddadi,  "Does conditional entropy squeezing indicate normalized entropic uncertainty relation steering?",  <a href="https://doi.org/10.1007/s11128-024-04298-w" target="_blank">
+						Quantum Inf. Process. 23, 90 (2024).</a> </font></p></li>
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   S. Haddadi,  M. Ghominejad, A. Czerwinski,  "Quantum dense coding with gravitational cat states",  <a href="https://doi.org/10.1088/1572-9494/ad23da" target="_blank">
 						Commun. Theor. Phys. 76, 035101 (2024).</a> </font></p></li>
 
