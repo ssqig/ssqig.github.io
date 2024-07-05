@@ -12,6 +12,11 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   M. Hadipour, S. Haseli, S. Haddadi,  "Quantum speedup and non-Markovianity of an atom in structured reservoirs: pseudomodes as a good description of environmental memory",  <a href="http://dx.doi.org/10.1088/1572-9494/ad54ae" target="_blank">
+						Commun. Theor. Phys. 76, 085105 (2024).</a> </font></p></li>
+
    <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   A. Ali, S. Al-Kuwari, S. Haddadi,  "Trade-off relations of quantum resource theory in Heisenberg models",  <a href="http://dx.doi.org/10.1088/1402-4896/ad3a45" target="_blank">
