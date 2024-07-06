@@ -14,6 +14,11 @@ permalink: /publications/
 
     <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   S. Haddadi,  M. Ghominejad, A. Czerwinski,  "Quantumness of gravitational cat states in correlated dephasing channels",  <a href="https://doi.org/10.1140/epjc/s10052-024-13034-8" target="_blank">
+						Eur. Phys. J. C 84, 670 (2024).</a> </font></p></li>
+
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. Hadipour, S. Haseli, S. Haddadi,  "Quantum speedup and non-Markovianity of an atom in structured reservoirs: pseudomodes as a good description of environmental memory",  <a href="http://dx.doi.org/10.1088/1572-9494/ad54ae" target="_blank">
 						Commun. Theor. Phys. 76, 085105 (2024).</a> </font></p></li>
 
