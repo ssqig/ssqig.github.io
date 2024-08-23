@@ -11,6 +11,10 @@ permalink: /publications/
 
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   M. Hadipour, S. Haseli, D. Wang, S.  Haddadi,  "Proposed scheme for a cavity-based quantum battery",  <a href="https://doi.org/10.1002/qute.202400115" target="_blank">
+						Adv. Quantum Technol. 7, 2400115 (2024).</a> </font></p></li>
 
     <li>
                                     <p class="paragraph_style_4" align="justify">
