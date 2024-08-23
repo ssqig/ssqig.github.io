@@ -11,6 +11,12 @@ permalink: /publications/
 
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. Ali, S. Al-Kuwari, M. Ghominejad, M. T. Rahim, D. Wang,  S. Haddadi,  "Quantum characteristics near event horizons",  <a href="https://journals.aps.org/prd/accepted/b707bQ6aA501e83803dd83649627197f2f328c257" target="_blank">
+						Phys. Rev. D 110,  (2024).</a> </font></p></li>
+   
     <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. Hadipour, S. Haseli, D. Wang, S.  Haddadi,  "Proposed scheme for a cavity-based quantum battery",  <a href="https://doi.org/10.1002/qute.202400115" target="_blank">
