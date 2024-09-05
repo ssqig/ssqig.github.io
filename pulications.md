@@ -14,8 +14,8 @@ permalink: /publications/
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">   A. Ali, S. Al-Kuwari, M. Ghominejad, M. T. Rahim, D. Wang,  S. Haddadi,  "Quantum characteristics near event horizons",  <a href="https://journals.aps.org/prd/accepted/b707bQ6aA501e83803dd83649627197f2f328c257" target="_blank">
-						Phys. Rev. D 110,  (2024).</a> </font></p></li>
+                                        <font size="2">   A. Ali, S. Al-Kuwari, M. Ghominejad, M. T. Rahim, D. Wang,  S. Haddadi,  "Quantum characteristics near event horizons",  <a href="https://doi.org/10.1103/PhysRevD.110.064001" target="_blank">
+						Phys. Rev. D 110,  064001 (2024).</a> </font></p></li>
    
     <li>
                                     <p class="paragraph_style_4" align="justify">
