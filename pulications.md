@@ -12,6 +12,11 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   M. Imtiaz Khan, H. Ali, H. Ullah, I. Ali, R. U. Din, M. Ghominejad, S. Haddadi,  "Enhanced Faraday rotation via Kerr nonlinearity in graphene metasurface",  <a href="https://doi.org/10.1140/epjp/s13360-024-05602-4" target="_blank">
+						Eur. Phys. J. Plus 139,  816 (2024).</a> </font></p></li>
+
 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   A. Ali, S. Al-Kuwari, M. Ghominejad, M. T. Rahim, D. Wang,  S. Haddadi,  "Quantum characteristics near event horizons",  <a href="https://doi.org/10.1103/PhysRevD.110.064001" target="_blank">
