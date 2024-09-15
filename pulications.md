@@ -12,6 +12,11 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    A. Ali, S. Al-Kuwari,  M. T. Rahim, M. Ghominejad, H. Ali,  S. Haddadi,  "A study on thermal quantum resources and probabilistic teleportation in spin-1/2 Heisenberg XYZ+DM+KSEA model under variable Zeeman splitting",  <a href="https://doi.org/10.1007/s00340-024-08309-7" target="_blank">
+						Appl. Phys. B  130,  177 (2024).</a> </font></p></li>
+
    <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. Imtiaz Khan, H. Ali, H. Ullah, I. Ali, R. U. Din, M. Ghominejad, S. Haddadi,  "Enhanced Faraday rotation via Kerr nonlinearity in graphene metasurface",  <a href="https://doi.org/10.1140/epjp/s13360-024-05602-4" target="_blank">
