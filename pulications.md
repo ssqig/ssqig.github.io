@@ -12,6 +12,11 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    R. U. Din, M. Shah, H. Ali, S. Haddadi,  "Probing photonic spin Hall effect with Fizeau drag in graphene",  <a href="https://doi.org/10.1016/j.rinp.2024.107987" target="_blank">
+						 Results Phys. 65, 107987 (2024).</a> </font></p></li>
+
     <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">    A. Ali, S. Al-Kuwari,  M. T. Rahim, M. Ghominejad, H. Ali,  S. Haddadi,  "A study on thermal quantum resources and probabilistic teleportation in spin-1/2 Heisenberg XYZ+DM+KSEA model under variable Zeeman splitting",  <a href="https://doi.org/10.1007/s00340-024-08309-7" target="_blank">
