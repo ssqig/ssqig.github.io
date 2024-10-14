@@ -14,6 +14,11 @@ permalink: /publications/
 
    <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    A. Czerwinski, X. Cai, S. Haddadi,  "Effects of chromatic dispersion on single-photon temporal wave functions in quantum communications",  <a href="https://doi.org/10.1007/s11128-024-04551-2" target="_blank">
+						 Quantum Inf. Process. 23, 342 (2024).</a> </font></p></li>
+
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">    R. U. Din, M. Shah, H. Ali, S. Haddadi,  "Probing photonic spin Hall effect with Fizeau drag in graphene",  <a href="https://doi.org/10.1016/j.rinp.2024.107987" target="_blank">
 						 Results Phys. 65, 107987 (2024).</a> </font></p></li>
 
