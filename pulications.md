@@ -12,6 +12,11 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    A. Czerwinski, S. Haddadi,  "Optimizing QKD efficiency by addressing chromatic dispersion and time measurement uncertainty",  <a href="https://doi.org/10.1016/j.physleta.2024.129972" target="_blank">
+						 Phys. Lett. A 526, 129972 (2024).</a> </font></p></li>
+
    <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">    A. Czerwinski, X. Cai, S. Haddadi,  "Effects of chromatic dispersion on single-photon temporal wave functions in quantum communications",  <a href="https://doi.org/10.1007/s11128-024-04551-2" target="_blank">
