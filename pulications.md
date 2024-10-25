@@ -12,6 +12,12 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    N. H. Abdel-Wahab, S. M. Zangi, T. A. Seoudy, S. Haddadi,  "Dynamical evolution of a five-level atom interacting with an intensity-dependent coupling regime influenced by a nonlinear Kerr-like medium",  <a href="https://doi.org/10.1038/s41598-024-76629-x" target="_blank">
+						 Sci. Rep. 14, 25211 (2024).</a> </font></p></li>
+
+
     <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">    A. Czerwinski, S. Haddadi,  "Optimizing QKD efficiency by addressing chromatic dispersion and time measurement uncertainty",  <a href="https://doi.org/10.1016/j.physleta.2024.129972" target="_blank">
