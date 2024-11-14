@@ -14,6 +14,11 @@ permalink: /publications/
 
    <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. Ali, S. Al-Kuwari, M. I. Hussain, T. Byrnes, M. T. Rahim, J. Q. Quach, M. Ghominejad,  S. Haddadi,  "Ergotropy and capacity optimization in Heisenberg spin-chain quantum batteries",  <a href="https://doi.org/10.1103/PhysRevA.110.052404" target="_blank">
+						 Phys. Rev. A 110, 052404 (2024).</a> </font></p></li>
+
+   <li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">    N. H. Abdel-Wahab, S. M. Zangi, T. A. Seoudy, S. Haddadi,  "Dynamical evolution of a five-level atom interacting with an intensity-dependent coupling regime influenced by a nonlinear Kerr-like medium",  <a href="https://doi.org/10.1038/s41598-024-76629-x" target="_blank">
 						 Sci. Rep. 14, 25211 (2024).</a> </font></p></li>
 
