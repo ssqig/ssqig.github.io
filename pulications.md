@@ -12,6 +12,11 @@ permalink: /publications/
  
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
+    <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   H. Dolatkhah, A. Czerwinski, A. Ali, S. Al-Kuwari,  S. Haddadi,  "Tripartite measurement uncertainty in Schwarzschild space-time",  <a href="https://doi.org/10.1140/epjc/s10052-024-13554-3" target="_blank">
+						  Eur. Phys. J. C 84, 1162 (2024).</a> </font></p></li>
+
    <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   A. Ali, S. Al-Kuwari, M. I. Hussain, T. Byrnes, M. T. Rahim, J. Q. Quach, M. Ghominejad,  S. Haddadi,  "Ergotropy and capacity optimization in Heisenberg spin-chain quantum batteries",  <a href="https://doi.org/10.1103/PhysRevA.110.052404" target="_blank">
