@@ -20,7 +20,7 @@ permalink: /publications/
                                         <font size="2">   F. Benabdallah, M.Y. Abd-Rabbou,  M. Daoud, S. Haddadi, "Quantum information resources in spin-1 Heisenberg dimer systems",  <a href="https://doi.org/10.1007/s11128-024-04631-3" target="_blank">
 						 Quantum Inf. Process. 24, 20 (2025).</a> </font></p></li>
 	
- 
+  <br>
 			<span class="style"><span style="font-weight: 700;">2024</span><br>
 
     <li>
