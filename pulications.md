@@ -9,6 +9,14 @@ permalink: /publications/
 		<ul>
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
+
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    A. Ghannadan, H. Arian Zad, S. Haddadi, J. Stre\ifmmode \check{c}\else \v{c}\fi{}ka, Z. Adamyan, V. Ohanyan, "Molecular nanomagnet ${\mathrm{Cu}}^{2+}{\mathrm{Ni}}^{2+}{\mathrm{Cu}}^{2+}$ as a resource for bipartite and tripartite quantum entanglement and coherence",  <a href="https://link.aps.org/doi/10.1103/PhysRevA.111.022605" target="_blank">
+						 Phys. Rev. A 111, 022605 (2025).</a> </font></p></li>
+
+
 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. A. Yurischev, S. Haddadi, M. Ghominejad, "A comparative study of LQU and LQFI in general qubit-qutrit axially symmetric states",  <a href="https://doi.org/10.1038/s41598-024-84857-4" target="_blank">
