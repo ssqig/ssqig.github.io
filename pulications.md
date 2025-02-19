@@ -13,7 +13,7 @@ permalink: /publications/
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2">    A. Ghannadan, H. Arian Zad, S. Haddadi, J. Stre\ifmmode \check{c}\else \v{c}\fi{}ka, Z. Adamyan, V. Ohanyan, "Molecular nanomagnet ${\mathrm{Cu}}^{2+}{\mathrm{Ni}}^{2+}{\mathrm{Cu}}^{2+}$ as a resource for bipartite and tripartite quantum entanglement and coherence",  <a href="https://link.aps.org/doi/10.1103/PhysRevA.111.022605" target="_blank">
+                                        <font size="2">    A. Ghannadan, H. Arian Zad, S. Haddadi, J. Strečka, Z. Adamyan, V. Ohanyan, "Molecular nanomagnet Cu2+⁢Ni2+⁢Cu2+ as a resource for bipartite and tripartite quantum entanglement and coherence",  <a href="https://link.aps.org/doi/10.1103/PhysRevA.111.022605" target="_blank">
 						 Phys. Rev. A 111, 022605 (2025).</a> </font></p></li>
 
 
