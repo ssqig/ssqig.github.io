@@ -11,6 +11,13 @@ permalink: /publications/
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
 
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    S. Elghaayda, A. Ali, S. Al-Kuwari, A. Czerwinski, M. Mansour, S. Haddadi, "Performance of a superconducting quantum battery",  <a href="https://doi.org/10.1002/qute.202400651" target="_blank">
+						 Adv. Quantum Technol. 8, 2400651 (2025).</a> </font></p></li>
+
+
 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">    A. Ghannadan, H. Arian Zad, S. Haddadi, J. Strečka, Z. Adamyan, V. Ohanyan, "Molecular nanomagnet Cu2+⁢Ni2+⁢Cu2+ as a resource for bipartite and tripartite quantum entanglement and coherence",  <a href="https://link.aps.org/doi/10.1103/PhysRevA.111.022605" target="_blank">
