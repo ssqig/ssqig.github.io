@@ -11,6 +11,14 @@ permalink: /publications/
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
 
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    A. U. Rahman, A.-X. Liu, S. Haddadi,  C.-F. Qiao, "Gravitational cat states as a resource for quantum information processing",  <a href="https://doi.org/10.1103/PhysRevD.111.064077" target="_blank">
+						 Phys. Rev. D 111, 064077 (2025).</a> </font></p></li>
+
+
+
+
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
