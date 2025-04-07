@@ -12,6 +12,12 @@ permalink: /publications/
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   S. Haddadi, E. I. Kuznetsova, M. A. Yurischev, "Quantum correlations in general qubit–qudit axially symmetric states",  
+						<a href="https://doi.org/10.1007/s11128-025-04719-4" target="_blank">
+						 Quantum Inf Process 24, 110 (2025).</a> </font></p></li>
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">    A. Manan, M. Noman, H. Ali, S. Haddadi, "Qubit–Qutrit coherence dynamics under a dissipative environment",  
 						<a href="https://doi.org/10.1088/1555-6611/adc557" target="_blank">
 						 Laser Phys. 35, 045206 (2025).</a> </font></p></li>
