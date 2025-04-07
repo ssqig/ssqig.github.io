@@ -10,6 +10,13 @@ permalink: /publications/
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">    A. Manan, M. Noman, H. Ali, S. Haddadi, "Qubit–Qutrit coherence dynamics under a dissipative environment",  
+						<a href="https://doi.org/10.1088/1555-6611/adc557" target="_blank">
+						 Laser Phys. 35, 045206 (2025).</a> </font></p></li>
+
+
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
