@@ -27,12 +27,10 @@ Our research group includes motivated PhD students and top researchers who are c
 	Our group is currently working on the following topics: </p>
 <br>
 <ul>
-	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Entropic Uncertainty Relations</font></p></li>
-	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Open Quantum Systems</font></p></li>
-	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Teleportation</font></p></li>
+	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Closed and Open Quantum Systems</font></p></li>
 	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Correlations</font></p></li>
-	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Channels</font></p></li>
-	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Coherence</font></p></li>					
+	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Quantum Coherence</font></p></li>
+	<li><p class="paragraph_style_4" align="justify"><font size="2.5">Top Quark Physics</font></p></li>					
 </ul>
 
 <br><br>
