@@ -9,6 +9,11 @@ permalink: /publications/
 		<ul>
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   E. Jaloum, M. Amazioug, S. Haddadi, "Quantum features of gravcats",  
+						<a href="https://doi.org/10.1038/s41598-025-03593-5" target="_blank">
+						 Sci. Rep. 15, 18594 (2025).</a> </font></p></li>
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
