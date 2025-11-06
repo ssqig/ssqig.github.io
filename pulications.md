@@ -10,6 +10,13 @@ permalink: /publications/
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   J. Khan, A. Sohail, A. Rahim, M. Shafiq, H. Ali, S. Haddadi, "Coherent control of anisotropic SPPs in a symmetric double-layer metal/uniaxial dielectric structure",  
+						<a href="https://doi.org/10.1038/s41598-025-12270-6" target="_blank">
+						  Sci. Rep. 15, 29809 (2025).</a> </font></p></li>
+
 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   J. Khan, A. Sohail, M. Shafiq, R. U. Din, H. Ali, A. Ali, S. Al-Kuwari, S. Haddadi, "Coherent control of surface plasmon polaritons in anisotropic medium",  
