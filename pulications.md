@@ -13,6 +13,12 @@ permalink: /publications/
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   H. Harraf, N. Chabar, M. Amazioug, R. Ahl Laamara, S. Haddadi, "Multipartite EPR-steering and entanglement in a cavity magnomechanical system through coherent feedback",  
+						<a href="https://doi.org/10.1038/s41598-025-20642-1" target="_blank">
+						   Sci. Rep. 15, 36742 (2025).</a> </font></p></li>
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   M. A. Yurischev, E. I. Kuznetsova, S. Haddadi, "Quantum correlations versus spin magnitude: Transition to the classical limit",  
 						<a href="https://doi.org/10.1103/qxtm-gysy" target="_blank">
 						   Phys. Rev. A 112, 042405 (2025).</a> </font></p></li>
