@@ -10,6 +10,14 @@ permalink: /publications/
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
+
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   M. Shiri, M. Ghominejad, M. R. Pourkarimi, S. Haddadi, "Measurement uncertainty and dense coding in a spin-star network",  
+						<a href="https://doi.org/10.3390/physics7030043" target="_blank">
+						  Physics 7, 43 (2025).</a> </font></p></li>
+						  
 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   H. Arian Zad, M. Jaščur, A. Ali, S. Al-Kuwari, S. Haddadi, "Jahn-Teller effect for controlling quantum correlations in hexanuclear Fe3+ magnets",  
