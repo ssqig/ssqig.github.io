@@ -12,6 +12,12 @@ permalink: /publications/
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   J. Khan, A. Sohail, M. Shafiq, R. U. Din, H. Ali, A. Ali, S. Al-Kuwari, S. Haddadi, "Coherent control of surface plasmon polaritons in anisotropic medium",  
+						<a href="https://doi.org/10.1007/s11468-025-03249-0" target="_blank">
+						 Plasmonics (2025).</a> </font></p></li>
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   A. Czerwinski, K. Czerwinska, X. Cai, A. Ali, H. Kuniyil, A. U. Rahman, S. Al-Kuwari, S. Haddadi, "Single-photon emission modeling with statistical estimators for the exponential distribution",  
 						<a href="https://doi.org/10.1007/s11128-025-04817-3" target="_blank">
 						 Quantum Inf. Process. 24, 192 (2025).</a> </font></p></li>
