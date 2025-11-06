@@ -10,6 +10,11 @@ permalink: /publications/
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   H. Arian Zad, M. Jaščur, A. Ali, S. Al-Kuwari, S. Haddadi, "Jahn-Teller effect for controlling quantum correlations in hexanuclear Fe3+ magnets",  
+						<a href="https://doi.org/10.1038/s41598-025-15329-6" target="_blank">
+						  Sci. Rep. 15, 30381 (2025).</a> </font></p></li>
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
