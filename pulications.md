@@ -9,6 +9,13 @@ permalink: /publications/
 		<ul>
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. Czerwinski, K. Czerwinska, X. Cai, A. Ali, H. Kuniyil, A. U. Rahman, S. Al-Kuwari, S. Haddadi, "Single-photon emission modeling with statistical estimators for the exponential distribution",  
+						<a href="https://doi.org/10.1007/s11128-025-04817-3" target="_blank">
+						 Quantum Inf. Process. 24, 192 (2025).</a> </font></p></li>
+
 <li>
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   E. Jaloum, M. Amazioug, S. Haddadi, "Quantum features of gravcats",  
@@ -19,7 +26,7 @@ permalink: /publications/
                                     <p class="paragraph_style_4" align="justify">
                                         <font size="2">   S. Haddadi, E. I. Kuznetsova, M. A. Yurischev, "Quantum correlations in general qubit–qudit axially symmetric states",  
 						<a href="https://doi.org/10.1007/s11128-025-04719-4" target="_blank">
-						 Quantum Inf Process 24, 110 (2025).</a> </font></p></li>
+						 Quantum Inf. Process. 24, 110 (2025).</a> </font></p></li>
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
