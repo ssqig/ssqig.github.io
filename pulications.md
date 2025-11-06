@@ -13,6 +13,12 @@ permalink: /publications/
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. Ali, S. Elghaayda, S. Al‐Kuwari, M. I. Hussain, M. T. Rahim, H. Kuniyil, T. Byrnes, J. Q. Quach, M. Mansour, S. Haddadi, "Magnetic dipolar quantum battery with spin‐orbit coupling",  
+						<a href="https://doi.org/10.1002/qute.202500361" target="_blank">
+						   Adv. Quantum Technol. 8, e00361 (2025).</a> </font></p></li>
+
+<li>
+                                    <p class="paragraph_style_4" align="justify">
                                         <font size="2">   H. Harraf, N. Chabar, M. Amazioug, R. Ahl Laamara, S. Haddadi, "Multipartite EPR-steering and entanglement in a cavity magnomechanical system through coherent feedback",  
 						<a href="https://doi.org/10.1038/s41598-025-20642-1" target="_blank">
 						   Sci. Rep. 15, 36742 (2025).</a> </font></p></li>
