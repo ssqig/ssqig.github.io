@@ -10,7 +10,11 @@ permalink: /publications/
 
 <span class="style"><span style="font-weight: 700;">2025</span><be>
 
-
+<li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2">   A. Ali, M. I. Hussain, S. Al‐Kuwari, M. T. Rahim, H. Kuniyil, S. M. Hosseiny, J. Seyed‐Yazdi, H. Arian Zad, S. Haddadi, "Coherence, transport, and chaos in 1D Bose–Hubbard model: disorder vs. Stark potential",  
+						<a href="https://doi.org/10.1002/prop.70035" target="_blank">
+						   Fortschr. Phys. 73, e70035 (2025).</a> </font></p></li>
 
 <li>
                                     <p class="paragraph_style_4" align="justify">
