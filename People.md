@@ -42,7 +42,7 @@ permalink: /People/
 		<ul><li><b><font size="2"><a href="mailto:machaman2000@yahoo.com ">Mohammad Ali Chaman Motlagh</a></font></b><font size="2"> (Ph.D., PNU, Iran)</font></li></ul>
 		      <ul><li><b><font size="2"><a href="mailto:m.elmalky@azhar.edu.eg">M. Y. Abd-Rabbou</a></font></b><font size="2"> (Postdoctoral Researcher, University of Chinese Academy of Science, China)</font></li></ul>
 		                <ul><li><b><font size="2"><a href="mailto:hamid.arian.zad@upjs.sk">Hamid Arian Zad</a></font></b><font size="2"> (Postdoctoral Researcher, Pavol Jozef Šafárik University, Slovakia)</font></li></ul>
-		   <ul><li><b><font size="2"><a href="mailto:a_ghannadan@yahoo.com">Azadeh Ghannadan</a></font></b><font size="2"> (Ph.D., Pavol Jozef Šafárik University, Slovakia)</font></li></ul>
+		   <ul><li><b><font size="2"><a href="mailto:a_ghannadan@yahoo.com">Azadeh Ghannadan</a></font></b><font size="2"> (Postdoctoral Researcher, Slovak Academy of Sciences, Slovakia)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:kenfacklionel300@gmail.com">Lionel Tenemeza Kenfack</a></font></b><font size="2"> (Ph.D., University of Dschang, Cameroon)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:a.n.khedr@azhar.edu.eg">Ahmad N. Khedr</a></font></b><font size="2"> (Ph.D., Al-Azhar University, Egypt)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:bikash@bikashsquantum.com">Bikash K. Behera</a></font></b><font size="2"> (Ph.D., Indian Institute of Science Education and Research Kolkata, Bikash's Quantum, India)</font></li></ul>
@@ -51,6 +51,7 @@ permalink: /People/
 		
  <ul><li><b><font size="2"><a href="mailto:attazaib5711@gmail.com">Atta Ur Rahman</a></font></b><font size="2"> (Ph.D. student, University of Chinese Academy of Science, China)</font></li></ul>		
 	<ul><li><b><font size="2"><a href="mailto:asal68826@hbku.edu.qa">Asad Ali</a></font></b><font size="2"> (Ph.D. student, Hamad Bin Khalifa University, Qatar)</font></li></ul>
+	<ul><li><b><font size="2"><a href="mailto:smalkuwari@hbku.edu.qa">Saif Al-Kuwari</a></font></b><font size="2"> (Associate Professor, Hamad Bin Khalifa University, Qatar)</font></li></ul>
 		<ul><li><b><font size="2"><a href="mailto:m_bohlol@yahoo.com ">Mohammad Bohloul</a></font></b><font size="2"> (Ph.D. student, University of Tabriz, Iran)</font></li></ul>
 				<ul><li><b><font size="2"><a href="mailto:akabhijeet200396@gmail.com">Abhijeet Kumar</a></font></b><font size="2"> (M.Sc., Central University of Jharkhand, India)</font></li>
 				
